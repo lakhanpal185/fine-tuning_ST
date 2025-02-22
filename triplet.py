@@ -72,4 +72,4 @@ if __name__ == "__main__":
     model.train(train_data)
     
     # Save model
-    model.model.save("./gpu_triplet_model")
+    model.model.save("./triplet_model")
