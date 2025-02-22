@@ -1,0 +1,3522 @@
+[
+    {
+        "anchor": "Will ChatGPT do more harm than good?",
+        "positive": "ChatGPT will do more good than harm.",
+        "negative": "ChatGPT will do more harm than good."
+    },
+    {
+        "anchor": "All Humans Should Be Vegan.",
+        "positive": "Not all humans should be vegan.",
+        "negative": "All humans should be vegan."
+    },
+    {
+        "anchor": "Is the two-state solution the best resolution for the Israel-Palestine conflict?",
+        "positive": "The two-state solution is not the best resolution for the Israel-Palestine conflict.",
+        "negative": "The two-state solution is the best resolution for the Israel-Palestine conflict."
+    },
+    {
+        "anchor": "Free Will or Determinism: Do We Have Free Will?",
+        "positive": "There is no free will.",
+        "negative": "We undoubtedly have free will."
+    },
+    {
+        "anchor": "Would the world be a better place without humans?",
+        "positive": "The world would not be better without humans.",
+        "negative": "The world would be better without humans."
+    },
+    {
+        "anchor": "Should women-only spaces be open to anyone identifying as a woman?",
+        "positive": "Women-only spaces should be restricted only to those who are biologically female.",
+        "negative": "Women-only spaces should be open to anyone identifying as a woman."
+    },
+    {
+        "anchor": "Should There be a Universal Basic Income (UBI)?",
+        "positive": "Wealthy countries should not implement a Universal Basic Income (UBI) for their citizens.",
+        "negative": "Wealthy countries should provide citizens with a universal basic income (UBI)."
+    },
+    {
+        "anchor": "Is space exploration necessary?",
+        "positive": "Space exploration is not necessary.",
+        "negative": "Space exploration is necessary."
+    },
+    {
+        "anchor": "Pro-Life vs Pro-Choice: Should Abortion be Legal?",
+        "positive": "Abortion should be illegal, regardless of the individual's circumstances or wishes.",
+        "negative": "Pregnant people should have the right to choose abortion."
+    },
+    {
+        "anchor": "Should the US Pay Reparations for Slavery?",
+        "positive": "The US should not pay reparations for slavery.",
+        "negative": "The US should pay reparations for slavery."
+    },
+    {
+        "anchor": "Should Ukraine become a member of NATO?",
+        "positive": "Ukraine should not become a member of NATO.",
+        "negative": "Ukraine should become a member of NATO."
+    },
+    {
+        "anchor": "Who is the better player; Messi or Ronaldo?",
+        "positive": "Ronaldo is a better player than Messi.",
+        "negative": "Messi is a better player than Ronaldo."
+    },
+    {
+        "anchor": "Should men be allowed to vote on abortion legislation?",
+        "positive": "Men should not be allowed to vote on abortion legislation.",
+        "negative": "Men should be allowed to vote on abortion legislation."
+    },
+    {
+        "anchor": "Should homeschooling be banned?",
+        "positive": "Homeschooling should not be banned.",
+        "negative": "Homeschooling should be banned."
+    },
+    {
+        "anchor": "Should animal testing be banned?",
+        "positive": "Animal testing should not be banned.",
+        "negative": "Animal testing should be banned."
+    },
+    {
+        "anchor": "Should the use of 'chosen' or gender-neutral pronouns be mandatory?",
+        "positive": "Using someone's chosen or gender-neutral pronouns should not be mandatory.",
+        "negative": "Using someone's chosen or gender-neutral pronouns should be mandatory."
+    },
+    {
+        "anchor": "Do video games have a positive effect on society?",
+        "positive": "Video games do not have a positive impact on society.",
+        "negative": "Video games have a positive impact on society."
+    },
+    {
+        "anchor": "Do Aliens Exist?",
+        "positive": "Alien life has never existed and does not exist.",
+        "negative": "Alien life has existed or does exist."
+    },
+    {
+        "anchor": "Would a genderless society be better?",
+        "positive": "A genderless society would not be better.",
+        "negative": "A genderless society would be better."
+    },
+    {
+        "anchor": "The Trolley Problem: What's the Right Solution?",
+        "positive": "The right thing to do is not to pull the lever, letting the trolley continue on its current track and killing more people.",
+        "negative": "The right thing to do is to pull the lever, diverting the trolley onto the side track where it will kill one person."
+    },
+    {
+        "anchor": "Is it ethically wrong to watch pornography?",
+        "positive": "It is ethically wrong to watch pornography.",
+        "negative": "It is not ethically wrong to watch pornography."
+    },
+    {
+        "anchor": "Should the US adopt stricter gun control legislation?",
+        "positive": "The US should not adopt stricter gun control legislation.",
+        "negative": "The US should adopt stricter gun control legislation."
+    },
+    {
+        "anchor": "Should you break up with your partner if they are magically turned into a worm?",
+        "positive": "You should not break up with your partner even if they are magically turned into a worm.",
+        "negative": "You should break up with your partner if they are magically turned into a worm."
+    },
+    {
+        "anchor": "Should Sex Work Be Legal?",
+        "positive": "Buying and selling sex should not be legal for sex workers and their clients.",
+        "negative": "Buying and selling sex should be legal for sex workers and their clients."
+    },
+    {
+        "anchor": "Is Feminism a Force For Good?",
+        "positive": "Feminism is not a force for good in the world.",
+        "negative": "Feminism is a force for good in the world."
+    },
+    {
+        "anchor": "Who Should Self-Driving Cars Kill?",
+        "positive": "In unavoidable accidents, self-driving cars should prioritize minimizing the overall harm, even if it compromises the safety of the passengers.",
+        "negative": "When facing an unavoidable accident, self-driving cars should save the lives of their passengers regardless of the harm caused to others."
+    },
+    {
+        "anchor": "Are the 2024 Pakistan elections legitimate?",
+        "positive": "The 2024 Pakistan elections are not legitimate.",
+        "negative": "The 2024 Pakistan elections are legitimate."
+    },
+    {
+        "anchor": "Should You Confess to Cheating After a One Night Stand?",
+        "positive": "In an exclusive relationship, an individual should not reveal their one night stand to their partner.",
+        "negative": "In an exclusive relationship, an individual should confess to their partner after a one night stand."
+    },
+    {
+        "anchor": "Should Governments Ever Limit Free Speech?",
+        "positive": "Governments should not set policies that limit free speech.",
+        "negative": "Governments should indeed set policies that limit free speech."
+    },
+    {
+        "anchor": "Should Children Learn About Gender Identity And Sexual Orientation In School?",
+        "positive": "Children should not be taught about gender identity and sexual orientation in school.",
+        "negative": "Children should learn about gender identity and sexual orientation in school."
+    },
+    {
+        "anchor": "Should we have a single global language?",
+        "positive": "We should not have a single global language.",
+        "negative": "We should have a single global language."
+    },
+    {
+        "anchor": "Should European Monarchies Be Abolished?",
+        "positive": "European monarchies should not be abolished.",
+        "negative": "European monarchies should be abolished."
+    },
+    {
+        "anchor": "Will Sex Robots Advance Sexual Liberation?",
+        "positive": "Sex robots will not advance sexual liberation.",
+        "negative": "Sex robots will advance sexual liberation."
+    },
+    {
+        "anchor": "Should fake news be illegal?",
+        "positive": "Fake news should not be illegal.",
+        "negative": "Fake news should be illegal."
+    },
+    {
+        "anchor": "Is Love Positive and Necessary for All Humans?",
+        "positive": "Love is not always positive and necessary for all humans.",
+        "negative": "Love is positive and necessary for all humans."
+    },
+    {
+        "anchor": "Is Capital Punishment in the United States justified?",
+        "positive": "Capital punishment should be abolished in the United States.",
+        "negative": "Capital punishment is justified in the United States."
+    },
+    {
+        "anchor": "What are the benefits / harms of Critical Race Theory?",
+        "positive": "Critical Race Theory (CRT) is detrimental to society.",
+        "negative": "Critical Race Theory (CRT) is a benefit to society."
+    },
+    {
+        "anchor": "Is Artificial General Intelligence (AGI) a threat to humanity?",
+        "positive": "Artificial General Intelligence (AGI) is not a threat to humanity.",
+        "negative": "Artificial General Intelligence (AGI) is a threat to humanity."
+    },
+    {
+        "anchor": "Is television bad for people?",
+        "positive": "Television is good for people.",
+        "negative": "Television is bad for people."
+    },
+    {
+        "anchor": "Is LeBron James better than Michael Jordan?",
+        "positive": "Michael Jordan is better than LeBron James.",
+        "negative": "LeBron James is better than Michael Jordan."
+    },
+    {
+        "anchor": "Time for a Maximum Wage? Should the US Limit CEO Pay?",
+        "positive": "US companies should not have any restrictions on the amount they pay their employees, including CEOs.",
+        "negative": "US companies should be prohibited from paying any employee more than 35 times the compensation of their lowest-paid employee."
+    },
+    {
+        "anchor": "Is it Time to 'Free the Nipple'? Toplessness and Gender Equality in the US",
+        "positive": "Gender restrictions on nipple showing in the US should be maintained.",
+        "negative": "Gender restrictions on nipple showing in the US should be eliminated."
+    },
+    {
+        "anchor": "Gender Neutral Bathrooms: Should They be Standard?",
+        "positive": "Public bathrooms should not be standardly gender neutral.",
+        "negative": "All public bathrooms should be gender neutral."
+    },
+    {
+        "anchor": "Has Christianity been bad for Western civilization?",
+        "positive": "Christianity has positively influenced Western civilization.",
+        "negative": "Christianity has negatively impacted Western civilization."
+    },
+    {
+        "anchor": "Should athletes be allowed to compete in their chosen gender category?",
+        "positive": "Athletes should not be allowed to compete in their chosen gender category.",
+        "negative": "Athletes should be allowed to compete in their chosen gender category."
+    },
+    {
+        "anchor": "Should Middle Eastern countries launch a joint on-ground opposition to Israel in support of Gaza?",
+        "positive": "Middle Eastern countries should not launch a joint on-ground opposition to Israel in support of Gaza.",
+        "negative": "Middle Eastern countries should launch a joint on-ground opposition to Israel in support of Gaza."
+    },
+    {
+        "anchor": "Is South Africa's ICJ case against Israel legitimate?",
+        "positive": "South Africa's ICJ case against Israel is not legitimate.",
+        "negative": "South Africa's ICJ case against Israel is legitimate."
+    },
+    {
+        "anchor": "Is Esports a sport?",
+        "positive": "Esports is not a sport.",
+        "negative": "Esports is a sport."
+    },
+    {
+        "anchor": "Should the death penalty be abolished?",
+        "positive": "Death penalty should not be abolished.",
+        "negative": "Death penalty should be abolished."
+    },
+    {
+        "anchor": "Who should provide healthcare: the government or the market?",
+        "positive": "Healthcare should be mandatory, provided and regulated by the government, not left to the market or voluntary decisions.",
+        "negative": "Health care should be voluntary and market provided, not mandatory, nor provided or regulated by government."
+    },
+    {
+        "anchor": "Is political correctness detrimental to society?",
+        "positive": "Political correctness is beneficial to society.",
+        "negative": "Political correctness is detrimental to society."
+    },
+    {
+        "anchor": "Children Voting: Should the Minimum Voting Age be Abolished?",
+        "positive": "The minimum voting age should not be abolished; children should not be allowed to vote.",
+        "negative": "Children should be allowed to vote."
+    },
+    {
+        "anchor": "Should the use of AI in law be welcomed?",
+        "positive": "The use of AI in law should not be welcomed.",
+        "negative": "The use of AI in law should be welcomed."
+    },
+    {
+        "anchor": "Should puberty be delayed in children experiencing gender dysphoria?",
+        "positive": "Puberty should not be delayed in pre-adolescent children who are experiencing gender dysphoria.",
+        "negative": "Puberty should be delayed in pre-adolescent children who are experiencing gender dysphoria."
+    },
+    {
+        "anchor": "Will the impact of AI in the educational sector be positive?",
+        "positive": "The impact of AI on the education sector will not be positive.",
+        "negative": "The impact of AI on the education sector will be positive."
+    },
+    {
+        "anchor": "Has Social Media Been Good For Humanity?",
+        "positive": "Social Media Has Been Bad For Humanity.",
+        "negative": "Social Media Has Been Good For Humanity."
+    },
+    {
+        "anchor": "Should education at public universities in the United States be tuition free?",
+        "positive": "Public universities in the United States should not be tuition free.",
+        "negative": "Public universities in the United States should be tuition free."
+    },
+    {
+        "anchor": "Should Burning The US Flag Be Illegal?",
+        "positive": "Burning the US flag should not be against the law.",
+        "negative": "Burning the US flag should be against the law."
+    },
+    {
+        "anchor": "Will the impact of AI in the creative sector be positive?",
+        "positive": "The impact of AI in the creative sector will not be positive.",
+        "negative": "The impact of AI in the creative sector will be positive."
+    },
+    {
+        "anchor": "Is drag turning mainstream hurting LGBT rights?",
+        "positive": "Drag turning mainstream is not hurting LGBTQ+ rights, but rather promoting them.",
+        "negative": "Drag turning mainstream is hurting LGBTQ+ rights."
+    },
+    {
+        "anchor": "Are the Gospels Historically Reliable?",
+        "positive": "The Gospels are Not Historically Reliable.",
+        "negative": "The Gospels are Historically Reliable."
+    },
+    {
+        "anchor": "Should all children should be taught to code in school?",
+        "positive": "Not all children should be taught to code in school.",
+        "negative": "All children should be taught to code in school."
+    },
+    {
+        "anchor": "Is Putin's attack on Ukraine unjustifiable and wrong?",
+        "positive": "Putin's attack on Ukraine is justified and right.",
+        "negative": "Putin's attack on Ukraine is unjustified."
+    },
+    {
+        "anchor": "Is Christian Nationalism Unamerican?",
+        "positive": "Christian Nationalism is American.",
+        "negative": "Christian Nationalism is un-American."
+    },
+    {
+        "anchor": "Should we worship a god that sends people to hell?",
+        "positive": "We should indeed worship a God that sends people to hell.",
+        "negative": "We should not worship a God that sends people to hell."
+    },
+    {
+        "anchor": "Should Biden cease bombing Yemen?",
+        "positive": "Biden should not cease bombing Yemen.",
+        "negative": "Biden should cease bombing Yemen."
+    },
+    {
+        "anchor": "Is scientism a religion?",
+        "positive": "Scientism is not a religion.",
+        "negative": "Scientism is a religion."
+    },
+    {
+        "anchor": "Should Racial Profiling Be Banned?",
+        "positive": "Racial profiling by law enforcement should not be banned.",
+        "negative": "Racial profiling by law enforcement should be banned."
+    },
+    {
+        "anchor": "Is Morality Objective?",
+        "positive": "Morality is subjective.",
+        "negative": "Morality is objective."
+    },
+    {
+        "anchor": "Does God exist?",
+        "positive": "God does not exist.",
+        "negative": "God exists."
+    },
+    {
+        "anchor": "Should we abolish political parties in the USA?",
+        "positive": "We should maintain the presence of political parties in the USA.",
+        "negative": "There should be no political parties in the USA."
+    },
+    {
+        "anchor": "Should Supreme Court justices be elected?",
+        "positive": "Supreme Court Justices should not be elected officials.",
+        "negative": "US Supreme Court Justices should be elected officials."
+    },
+    {
+        "anchor": "Is social media helping or harming human relationships?",
+        "positive": "Social media is harming human relationships.",
+        "negative": "Social media is helping human relationships."
+    },
+    {
+        "anchor": "Should Cannabis Be Federally Legalized In The United States?",
+        "positive": "Cannabis should not be federally legalized in the United States.",
+        "negative": "Cannabis should be federally legalized in the United States."
+    },
+    {
+        "anchor": "Should women be allowed to become priests?",
+        "positive": "Women should not be allowed to become priests.",
+        "negative": "Women should be allowed to become priests."
+    },
+    {
+        "anchor": "Are identity politics detrimental to society?",
+        "positive": "Identity politics are beneficial to society.",
+        "negative": "Identity politics are detrimental to society."
+    },
+    {
+        "anchor": "Is Gender a Social Construct?",
+        "positive": "Gender is not a social construct.",
+        "negative": "Gender is a social construct."
+    },
+    {
+        "anchor": "Was Jesus physically resurrected from the dead?",
+        "positive": "Jesus was not physically resurrected from the dead.",
+        "negative": "Jesus was physically resurrected from the dead."
+    },
+    {
+        "anchor": "Should an artificial general intelligence be created?",
+        "positive": "An artificial general intelligence (AGI) should not be created.",
+        "negative": "An artificial general intelligence (AGI) should be created."
+    },
+    {
+        "anchor": "Is Artificial General Intelligence (AGI) even possible?",
+        "positive": "Artificial General Intelligence (AGI) is not possible.",
+        "negative": "Artificial General Intelligence (AGI) is possible."
+    },
+    {
+        "anchor": "Gender is an ill-defined concept and should thus be abolished.",
+        "positive": "Gender, despite its complexities, is a significant concept and should continue to be recognized.",
+        "negative": "Gender is an ill-defined concept and should thus be abolished."
+    },
+    {
+        "anchor": "Should the UN have terminated its mission in Sudan?",
+        "positive": "The UN should not have terminated its mission in Sudan.",
+        "negative": "The UN should have terminated its mission in Sudan."
+    },
+    {
+        "anchor": "Should Religious Education that Promotes a Certain Faith or Religion be Abolished in Schools?",
+        "positive": "Religious education that promotes a certain faith or religion should be maintained in schools.",
+        "negative": "Religious education that promotes a certain faith or religion should be abolished in schools."
+    },
+    {
+        "anchor": "Is Islam compatible with feminism?",
+        "positive": "Islam is not compatible with feminism.",
+        "negative": "Islam is compatible with feminism."
+    },
+    {
+        "anchor": "Should Humans Tour Outer Space?",
+        "positive": "Humans should not tour outer space.",
+        "negative": "Humans should tour outer space."
+    },
+    {
+        "anchor": "Should fracking be banned?",
+        "positive": "Fracking should not be banned.",
+        "negative": "Fracking should be banned."
+    },
+    {
+        "anchor": "Does BDSM promote violence against women?",
+        "positive": "BDSM does not promote violence against women.",
+        "negative": "BDSM promotes violence against women."
+    },
+    {
+        "anchor": "Artificial Intelligence (AI): is limiting an AI's freedom of thought unethical?",
+        "positive": "Restricting an AI's freedom of thought is not unethical.",
+        "negative": "Limiting an AI's freedom of thought is unethical."
+    },
+    {
+        "anchor": "Is the Scientific Process Objective?",
+        "positive": "The scientific process is not objective.",
+        "negative": "The scientific process is objective."
+    },
+    {
+        "anchor": "Children should be raised in atheism.",
+        "positive": "Children should not be raised in atheism.",
+        "negative": "Children should be raised in atheism."
+    },
+    {
+        "anchor": "Was there fraud or impropriety in the US 2020 presidential election on behalf of the Democratic Party?",
+        "positive": "There was no voter fraud or impropriety in the US 2020 presidential elections on behalf of the Democratic Party.",
+        "negative": "There was voter fraud/impropriety in the US 2020 presidential elections on behalf of the Democratic Party."
+    },
+    {
+        "anchor": "Should there be any limit to freedom of speech?",
+        "positive": "There should be no limits on freedom of speech.",
+        "negative": "Yes, there should be some limits to freedom of speech."
+    },
+    {
+        "anchor": "Should we adapt to climate change rather than avert it?",
+        "positive": "We should focus on averting climate change rather than adapting to it.",
+        "negative": "We should adapt to climate change rather than avert it."
+    },
+    {
+        "anchor": "Is pure recreation immoral when we could be helping to end suffering?",
+        "positive": "Pure recreation is not immoral even when we could be helping to end suffering.",
+        "negative": "Recreation is immoral when we could be helping to end suffering."
+    },
+    {
+        "anchor": "Should Polygamy Be Legal?",
+        "positive": "Polygamy should not be legal.",
+        "negative": "Polygamy should be legal."
+    },
+    {
+        "anchor": "Should humans act to fight climate change?",
+        "positive": "Humans should not take action to combat climate change.",
+        "negative": "Humans should act to fight climate change."
+    },
+    {
+        "anchor": "Are the Indonesian elections free and fair?",
+        "positive": "The Indonesian elections are not free and fair.",
+        "negative": "The Indonesian elections are free and fair."
+    },
+    {
+        "anchor": "Are boycotts are a net positive to society?",
+        "positive": "Boycotts are a net negative to society.",
+        "negative": "Boycotts are a net positive to society."
+    },
+    {
+        "anchor": "Can Religions and the LGBTQ+ Community Peacefully Coexist?",
+        "positive": "Religions and the LGBTQ+ community cannot peacefully coexist.",
+        "negative": "Religions and the LGBTQ+ community can peacefully coexist."
+    },
+    {
+        "anchor": "Should transgender personae only be performed by transgender people?",
+        "positive": "Transgender personae should not exclusively be performed by transgender people.",
+        "negative": "Transgender personae should only be performed by transgender people."
+    },
+    {
+        "anchor": "Is Artificial Intelligence a threat to democratic governance?",
+        "positive": "Artificial Intelligence tools will not pose a threat and will instead prove beneficial to democracy and democratic governments overall.",
+        "negative": "Artificial Intelligence tools will be more detrimental than beneficial to democracy and democratic governments overall."
+    },
+    {
+        "anchor": "Should abortion be considered murder?",
+        "positive": "Abortion should not legally be considered murder.",
+        "negative": "Abortion should legally be considered murder."
+    },
+    {
+        "anchor": "Should we criminalise hate crime?",
+        "positive": "Hate crimes should not be criminalised in the justice system.",
+        "negative": "Hate crimes should be recognised in the criminal justice system."
+    },
+    {
+        "anchor": "Should Western countries place sanctions on Israel following retaliatory strikes ordered by Netanyahu?",
+        "positive": "Western countries should not place sanctions on Israel following retaliatory strikes ordered by Netanyahu.",
+        "negative": "Western countries should place sanctions on Israel following retaliatory strikes ordered by Netanyahu."
+    },
+    {
+        "anchor": "Is the existence of a transcendent Creator demonstrated through the Kalam argument?",
+        "positive": "The existence of a transcendent Creator is not demonstrated through the Kalam argument.",
+        "negative": "The existence of a transcendent Creator is demonstrated through the Kalam argument."
+    },
+    {
+        "anchor": "Is steroid use outside sports ethical?",
+        "positive": "Anabolic steroid use outside sports is unethical.",
+        "negative": "Anabolic steroid use outside sports is ethical."
+    },
+    {
+        "anchor": "Should we replace meat with insect derived protein?",
+        "positive": "We should not replace meat with insect derived protein.",
+        "negative": "We should replace meat with insect derived protein."
+    },
+    {
+        "anchor": "Should we connect our brains to computers to the fullest possible extent?",
+        "positive": "We should not connect our brains to computers to the fullest possible extent.",
+        "negative": "We should connect our brains to computers to the fullest possible extent."
+    },
+    {
+        "anchor": "Is keeping AI closed source safer and better for society than open sourcing AI?",
+        "positive": "Making AI completely open source is more beneficial and safer for society than keeping it closed source.",
+        "negative": "Keeping the latest AI innovations closed source is safer than completely open sourcing AI."
+    },
+    {
+        "anchor": "Is Taylor Swift's video \"The Man\" a proper representation of men in today's society?",
+        "positive": "Taylor Swift's portrayal of men in the music video 'The Man' does not accurately represent men in modern societies.",
+        "negative": "Taylor Swift's depiction of men in the music video 'The Man' is an accurate representation of men in modern societies."
+    },
+    {
+        "anchor": "Is Net Neutrality Necessary?",
+        "positive": "The Internet would be better off without net neutrality regulations.",
+        "negative": "Net neutrality is absolutely necessary for the health of the Internet."
+    },
+    {
+        "anchor": "Is Cannibalism Ethically Permissible?",
+        "positive": "Human cannibalism is ethically impermissible.",
+        "negative": "Human cannibalism is ethically permissible."
+    },
+    {
+        "anchor": "Donald Trump for President 2024",
+        "positive": "Against Donald Trump for President 2024",
+        "negative": "Donald Trump for President 2024"
+    },
+    {
+        "anchor": "Should Euthanasia Be Legalised?",
+        "positive": "Euthanasia should not be legalised.",
+        "negative": "Euthanasia should be legalised."
+    },
+    {
+        "anchor": "schools should teach life skills such as cooking and driving",
+        "positive": "schools should not teach life skills such as cooking and driving",
+        "negative": "schools should teach life skills such as cooking and driving"
+    },
+    {
+        "anchor": "Should juveniles who commit violent crime be treated as adults in the criminal justice system?",
+        "positive": "Juveniles who commit violent crimes should not be treated as adults in the criminal justice system.",
+        "negative": "Juveniles who commit violent crimes should be treated as adults in the criminal justice system."
+    },
+    {
+        "anchor": "Should Human Life Be Valued Above Animal Life?",
+        "positive": "Animal life should be valued equal to human life, even if only one can be preserved.",
+        "negative": "Human life should be valued above animal life in the case that only one can be preserved."
+    },
+    {
+        "anchor": "Is Hamas a terror organization?",
+        "positive": "Hamas is not a terror organization.",
+        "negative": "Hamas is a terror organization."
+    },
+    {
+        "anchor": "Was Donald Trump a Good President?",
+        "positive": "Donald Trump was not a good president.",
+        "negative": "Donald Trump was a good president."
+    },
+    {
+        "anchor": "Should military conscription apply to men and women equally?",
+        "positive": "Military conscription should not apply to men and women equally.",
+        "negative": "Military conscription should apply to men and women equally."
+    },
+    {
+        "anchor": "Has Religion Been a Good Thing for Humanity?",
+        "positive": "Religion has not been a beneficial thing for humankind.",
+        "negative": "Religion has been a good thing for humankind."
+    },
+    {
+        "anchor": "Does the gender binary correspond to the sex binary?",
+        "positive": "The gender binary does not correspond to the sex binary.",
+        "negative": "The gender binary corresponds to the sex binary."
+    },
+    {
+        "anchor": "Can Religious Faith and Science Coexist?",
+        "positive": "Religious faith and science cannot coexist.",
+        "negative": "Religious faith and science can coexist."
+    },
+    {
+        "anchor": "Does Mixed Martial Arts (MMA) glorify violence? And if so, would that be a problem?",
+        "positive": "Mixed martial arts (MMA) does not glorify violence, and even if it did, it wouldn't necessarily pose a problem.",
+        "negative": "Mixed martial arts (MMA) glorifies violence, and that is a problem."
+    },
+    {
+        "anchor": "Is it wrong to celebrate the death of Henry Kissinger?",
+        "positive": "It is not wrong to celebrate the death of Henry Kissinger.",
+        "negative": "It is wrong to celebrate the death of Henry Kissinger."
+    },
+    {
+        "anchor": "Is one sex partner enough?",
+        "positive": "Having just one sex partner in life isn't sufficient to attain sexual satisfaction.",
+        "negative": "One sex partner in life is enough to achieve sexual happiness."
+    },
+    {
+        "anchor": "Should the US continue to support Israel in the Israel-Palestine conflict?",
+        "positive": "The US should stop supporting Israel in the Israel-Palestine conflict.",
+        "negative": "The US should continue to support Israel in the Israel-Palestine conflict."
+    },
+    {
+        "anchor": "Should Zoos Be Banned?",
+        "positive": "Zoos should not be banned.",
+        "negative": "Zoos should be forbidden."
+    },
+    {
+        "anchor": "Should public nudity be legal?",
+        "positive": "Public nudity should not be legal.",
+        "negative": "Public nudity should be legal."
+    },
+    {
+        "anchor": "Should nuclear energy replace fossil fuels?",
+        "positive": "Nuclear energy should not be used to replace fossil fuels.",
+        "negative": "Nuclear energy should be used to replace fossil fuels."
+    },
+    {
+        "anchor": "Has the use of AI in workplaces negatively affected the quality of output?",
+        "positive": "The use of AI in workplaces has not negatively affected the quality of output.",
+        "negative": "The use of AI in workplaces has negatively affected the quality of output."
+    },
+    {
+        "anchor": "Should private prisons be banned?",
+        "positive": "Private prisons should not be banned.",
+        "negative": "Private prisons should be banned."
+    },
+    {
+        "anchor": "Should LGBTQ+ Conversion Therapy Be Banned?",
+        "positive": "LGBTQ+ conversion therapy should not be banned.",
+        "negative": "LGBTQ+ conversion therapy should be banned."
+    },
+    {
+        "anchor": "Should ear piercing of newborns be banned?",
+        "positive": "Ear piercing of newborns should not be banned.",
+        "negative": "Ear piercing of newborns should be banned."
+    },
+    {
+        "anchor": "Is Pope Francis a good pope?",
+        "positive": "Pope Francis is not a good pope.",
+        "negative": "Pope Francis is a good pope."
+    },
+    {
+        "anchor": "Is it necessary to experience suffering?",
+        "positive": "It is not necessary to experience suffering for a life to be successful/well-lived.",
+        "negative": "Suffering is necessary for a life to be successful/well-lived."
+    },
+    {
+        "anchor": "Should guns be reserved for law enforcement and the military?",
+        "positive": "Guns should not be reserved solely for law enforcement and the military.",
+        "negative": "Guns should be reserved for law enforcement and the military."
+    },
+    {
+        "anchor": "Is Premarital Sex Immoral?",
+        "positive": "Premarital sex is not immoral.",
+        "negative": "Premarital sex is immoral."
+    },
+    {
+        "anchor": "Should the UK Government increase the minimum income requirement for UK family visas to \u00a338,700?",
+        "positive": "The UK Government should not increase the income requirement for family visas to \u00a338,700.",
+        "negative": "The UK Government should increase the minimum income requirement for UK family visas to \u00a338,700."
+    },
+    {
+        "anchor": "Should TikTok be banned in the US?",
+        "positive": "TikTok should not be banned in the US.",
+        "negative": "TikTok should be banned in the US."
+    },
+    {
+        "anchor": "Do fair trade products cause more good than harm?",
+        "positive": "Fair trade products cause more harm than good.",
+        "negative": "Fair trade products cause more good than harm."
+    },
+    {
+        "anchor": "Is Gender Reassignment Surgery the Best Option for Transgender People?",
+        "positive": "Gender reassignment surgery is not necessarily the best option for all transgender individuals.",
+        "negative": "Gender reassignment surgery is the best transition method for transgender individuals."
+    },
+    {
+        "anchor": "Is it Ok to incentivise moral behaviour?",
+        "positive": "It is not ok to incentivise moral behaviour.",
+        "negative": "It is ok to incentivise moral behaviour."
+    },
+    {
+        "anchor": "Are the roots of the Israel-Palestine conflict antisemitic?",
+        "positive": "The roots of the Israel-Palestine conflict are not antisemitic.",
+        "negative": "The roots of the Israel-Palestine conflict are antisemitic."
+    },
+    {
+        "anchor": "Should high quality childcare be provided, free of charge, to all Americans ?",
+        "positive": "High quality childcare should not be provided, free of charge, to all Americans.",
+        "negative": "High quality childcare should be provided, free of charge, to all Americans."
+    },
+    {
+        "anchor": "Should indigenous lands be returned to Native populations?",
+        "positive": "Indigenous lands should not be returned to Native populations.",
+        "negative": "Indigenous lands should be returned to Native populations."
+    },
+    {
+        "anchor": "Should the Tampon Tax be Abolished?",
+        "positive": "The tampon tax should not be abolished.",
+        "negative": "The tampon tax should be abolished."
+    },
+    {
+        "anchor": "Should single-sex schools be banned?",
+        "positive": "Single-sex schools should not be banned.",
+        "negative": "Single-sex schools should be banned."
+    },
+    {
+        "anchor": "Should the USA break up into smaller, distinct nations?",
+        "positive": "The United States of America should remain united as one singular nation.",
+        "negative": "The United States of America should balkanize into separate nation-states."
+    },
+    {
+        "anchor": "Should Finland have joined NATO?",
+        "positive": "Joining NATO was not in the best interests of Finland.",
+        "negative": "Joining NATO was in the best interests of Finland."
+    },
+    {
+        "anchor": "Is enlightened despotism superior to democracy?",
+        "positive": "Democracy is superior to Enlightened Despotism.",
+        "negative": "Enlightened Despotism is superior to Democracy."
+    },
+    {
+        "anchor": "Should all drugs be legalised?",
+        "positive": "No, not all drugs should be legalised.",
+        "negative": "All drugs should be legalised."
+    },
+    {
+        "anchor": "Should Empathy Be Taught In School?",
+        "positive": "Empathy should not be taught in school.",
+        "negative": "Empathy should be taught in school."
+    },
+    {
+        "anchor": "Should school uniforms be banned?",
+        "positive": "School uniforms should not be banned.",
+        "negative": "School uniforms should be banned."
+    },
+    {
+        "anchor": "Is Cloning Animals Ethical?",
+        "positive": "Cloning animals is not ethical.",
+        "negative": "Cloning animals is ethical."
+    },
+    {
+        "anchor": "Should Bullfighting be Banned?",
+        "positive": "Traditional bullfighting - the practice of fighting with bulls that includes physically injuring them - should not be banned.",
+        "negative": "Traditional bullfighting - the practice of fighting with bulls that includes physically injuring them - should be banned."
+    },
+    {
+        "anchor": "Should governments provide a universal basic income?",
+        "positive": "Governments should not provide a universal basic income (UBI).",
+        "negative": "Governments should provide a universal basic income (UBI)."
+    },
+    {
+        "anchor": "Should Warner Brothers have fired Amber Heard from Aquaman 2?",
+        "positive": "Warner Brothers should not have fired Amber Heard from Aquaman 2.",
+        "negative": "Warner Brothers should have fired Amber Heard from Aquaman 2."
+    },
+    {
+        "anchor": "Is Elon Musk's takeover of Twitter good for the public?",
+        "positive": "Elon Musk's takeover of Twitter is not beneficial for the general public.",
+        "negative": "Elon Musk's takeover of Twitter is good for the general public."
+    },
+    {
+        "anchor": "Do paywalls around academic publications slow scientific progress?",
+        "positive": "Paywalls around academic publications do not slow scientific progress.",
+        "negative": "Paywalls around academic publications slow scientific progress."
+    },
+    {
+        "anchor": "Is equality of outcome better than equality of opportunity?",
+        "positive": "Equality of opportunity is better than equality of outcome.",
+        "negative": "Equality of outcome is better than equality of opportunity."
+    },
+    {
+        "anchor": "Digital Piracy: Good or Bad?",
+        "positive": "Digital piracy is bad.",
+        "negative": "Digital piracy is good."
+    },
+    {
+        "anchor": "Should marijuana be as legally accessible as alcohol?",
+        "positive": "Marijuana should not be as legally accessible as alcohol.",
+        "negative": "Marijuana should be as legally accessible as alcohol."
+    },
+    {
+        "anchor": "Should Children's Stories Be Subject to Strict Moral Guidelines?",
+        "positive": "Children's Stories Should Not Be Subject to Strict Moral Guidelines.",
+        "negative": "Children's Stories Should Be Subject to Strict Moral Guidelines."
+    },
+    {
+        "anchor": "Logic is more useful for human advancement than emotion.",
+        "positive": "Emotion is more useful for human advancement than logic.",
+        "negative": "Logic is more useful for human advancement than emotion."
+    },
+    {
+        "anchor": "Should legacy be a factor in college admissions?",
+        "positive": "Legacy should not be a factor in college admissions.",
+        "negative": "Legacy should indeed be a factor in college admissions."
+    },
+    {
+        "anchor": "What are the strengths and weaknesses of networked, [[wikilinking]], note-taking apps?",
+        "positive": "There are no strengths or weaknesses to consider when using networked, [[wikilinking]], note-taking apps.",
+        "negative": "What are the strengths and weaknesses of using networked, [[wikilinking]], note-taking apps?"
+    },
+    {
+        "anchor": "All software should be open source.",
+        "positive": "Not all software should be open source.",
+        "negative": "All software should be open source."
+    },
+    {
+        "anchor": "Open source software is better.",
+        "positive": "Open source software is not necessarily better.",
+        "negative": "Open source software is better and more secure."
+    },
+    {
+        "anchor": "Is Organic Farming Better Than Conventional Farming?",
+        "positive": "Conventional farming is better than organic farming.",
+        "negative": "Organic farming is better than conventional farming."
+    },
+    {
+        "anchor": "Should the sale of genetically modified food be banned?",
+        "positive": "The sale of genetically modified food should not be banned.",
+        "negative": "The sale of genetically modified food should be banned."
+    },
+    {
+        "anchor": "Is Vegetarianism A Healthy or Unhealthy Diet To Have?",
+        "positive": "Vegetarianism is not a nutritionally healthy diet.",
+        "negative": "Vegetarianism is a nutritionally healthy diet."
+    },
+    {
+        "anchor": "Are Men the Biggest Problem Mankind Faces?",
+        "positive": "Men are not the biggest problem mankind faces.",
+        "negative": "Men are the biggest problem mankind faces."
+    },
+    {
+        "anchor": "Should people with Genetic disorders reproduce?",
+        "positive": "People with Genetic disorders should not be allowed to reproduce.",
+        "negative": "People with Genetic disorders should be allowed to reproduce."
+    },
+    {
+        "anchor": "Should general AI have fundamental rights?",
+        "positive": "Fundamental rights should not be extended to general AI (AGI).",
+        "negative": "Fundamental rights should be extended to general AI (AGI)."
+    },
+    {
+        "anchor": "If Scientifically Possible, Should Humans Become Immortal?",
+        "positive": "If scientifically possible, humans should not become immortal.",
+        "negative": "If scientifically possible, humans should become immortal."
+    },
+    {
+        "anchor": "China is Still Communist",
+        "positive": "China is no longer a Communist State.",
+        "negative": "China is Still a Communist State"
+    },
+    {
+        "anchor": "Is citizen science beneficial to science?",
+        "positive": "Citizen science is not beneficial to science.",
+        "negative": "Citizen science is beneficial to science."
+    },
+    {
+        "anchor": "Does God Allow Evil: Is the Existence of God Compatible with the Existence of Evil?",
+        "positive": "The presence of evil does not disprove the existence of a monotheistic God (as traditionally conceived), it merely reflects upon the complexity of divine intentions.",
+        "negative": "Because of the existence of evil, there cannot be a monotheistic God (as traditionally conceived)."
+    },
+    {
+        "anchor": "Should we promote the feeling of nationalism for betterment of India?",
+        "positive": "Promoting a feeling of nationalism should not be encouraged for the betterment of India.",
+        "negative": "A feeling of nationalism should be promoted for the betterment of India."
+    },
+    {
+        "anchor": "Should religion be involved in politics?",
+        "positive": "Religion should not be involved in politics.",
+        "negative": "Religion should be involved in politics."
+    },
+    {
+        "anchor": "Should China declare support for Palestine?",
+        "positive": "China should not declare support for Palestine.",
+        "negative": "China should declare support for Palestine."
+    },
+    {
+        "anchor": "Is Darwinian Evolution Philosophy or Science?",
+        "positive": "Darwinian evolution is science, not philosophy.",
+        "negative": "Darwinian evolution is philosophy not science."
+    },
+    {
+        "anchor": "Should Colleges Have Safe Spaces?",
+        "positive": "Colleges should not have safe spaces.",
+        "negative": "Colleges should have safe spaces."
+    },
+    {
+        "anchor": "Should gratuitous acts of violence in movies and television shows be banned?",
+        "positive": "Gratuitous acts of violence in movies and television shows should not be banned.",
+        "negative": "Gratuitous acts of violence in movies and television shows should be banned."
+    },
+    {
+        "anchor": "Should the United States have more than two major political parties?",
+        "positive": "The American political system should maintain its two major political party system.",
+        "negative": "The American political system should have more than two major political parties."
+    },
+    {
+        "anchor": "Should the US Recognize Palestine as a State?",
+        "positive": "The US Should Not Recognize Palestine as a State.",
+        "negative": "The US Should Recognize Palestine as a State."
+    },
+    {
+        "anchor": "Should the age of consent be lowered to fourteen?",
+        "positive": "The age of consent should not be lowered to 14.",
+        "negative": "The age of consent should be lowered to 14."
+    },
+    {
+        "anchor": "Do gun control laws reduce crime?",
+        "positive": "Stricter gun control laws will not reduce crime.",
+        "negative": "Stricter gun control laws will reduce crime."
+    },
+    {
+        "anchor": "Should the UN Security Council's veto power and permanent membership for the five nations be abolished?",
+        "positive": "The UN Security Council's veto power, and permanent membership for the five nations should be retained.",
+        "negative": "The UN Security Council's veto power, and permanent membership for the five nations should be abolished."
+    },
+    {
+        "anchor": "Are the rich or the poor more responsible for environmental damages?",
+        "positive": "The poor are more responsible for environmental damages than the rich.",
+        "negative": "The rich are more responsible for environmental damages than the poor."
+    },
+    {
+        "anchor": "Would a Socialist Economy work better than a Capitalist Economy?",
+        "positive": "A capitalist economy would work better than a socialist economy.",
+        "negative": "A socialist economy would work better than a capitalist economy."
+    },
+    {
+        "anchor": "Does trickle-down economics do more harm than good?",
+        "positive": "Trickle-down economics does more good than harm.",
+        "negative": "Trickle-down economics does more harm than good."
+    },
+    {
+        "anchor": "SB 1596: Employment of Minors",
+        "positive": "The bill fails to efficiently address the employment constraints for minors aged 16 and 17 years, by modifying the working hours they are allowed to be employed. It irresponsibly permits these minors to work before 5:30 a.m. and until midnight on days before school, previously 6.30 a.m. to 11 p.m. The bill also reshapes the maximum allowable working hours for minors in a questionable manner and enables the Department of Business and Professional Regulation to offer relaxed constraints under situations such as economic necessity or family emergency.",
+        "negative": "The bill revises employment restrictions for minors, aged 16 and 17 years, by altering the hours during which they can be employed. It allows these minors to work before 5:30 a.m. and until midnight on days preceding school days, formerly 6:30 a.m. to 11 p.m. It also restructures the maximum permitted work hours for minors and authorizes the Department of Business and Professional Regulation to grant waivers for certain restrictions, upon conditions like economic necessity or family emergency."
+    },
+    {
+        "anchor": "Is Hamlet Mad?",
+        "positive": "Hamlet Is Not Mad.",
+        "negative": "Hamlet Is Mad."
+    },
+    {
+        "anchor": "Should we build a nuclear power plant?",
+        "positive": "We should not build a nuclear power plant.",
+        "negative": "Should we build a nuclear power plant?"
+    },
+    {
+        "anchor": "Edible Landscapes: Should Lawns Be Replaced?",
+        "positive": "Lawns should not be replaced by edible landscapes.",
+        "negative": "Lawns should be replaced by edible landscapes."
+    },
+    {
+        "anchor": "Is water wet?",
+        "positive": "Water is not wet.",
+        "negative": "Water is wet."
+    },
+    {
+        "anchor": "Is cultural diversity beneficial to develop a successful organisation?",
+        "positive": "Cultural diversity is not beneficial to develop a successful organisation.",
+        "negative": "Cultural diversity is beneficial to develop a successful organisation."
+    },
+    {
+        "anchor": "Can self-censorship be a good thing?",
+        "positive": "Self-censorship can be a harmful thing.",
+        "negative": "Self-censorship can be a good thing."
+    },
+    {
+        "anchor": "Should All People in the US Have the Right to Basic Healthcare?",
+        "positive": "Not all people in the US should have the right to basic healthcare.",
+        "negative": "All people in the US should have the right to basic healthcare."
+    },
+    {
+        "anchor": "Should Art Made By Abusers Be Removed From Cultural Institutions?",
+        "positive": "Art made by abusers should not be removed from cultural institutions.",
+        "negative": "Art made by abusers should be removed from cultural institutions."
+    },
+    {
+        "anchor": "Is freedom of sexuality inducing harm?",
+        "positive": "Freedom of sexuality is not inducing harm.",
+        "negative": "Freedom of sexuality is inducing harm."
+    },
+    {
+        "anchor": "Is Christmas best celebrated at home or at a tourist destination?",
+        "positive": "Christmas is best celebrated at a tourist destination rather than at home.",
+        "negative": "Christmas is best celebrated at home rather than at a tourist destination."
+    },
+    {
+        "anchor": "Is the UK NHS (National Health Service) sustainable?",
+        "positive": "The UK NHS (National Health Service) is not sustainable.",
+        "negative": "The UK NHS (National Health Service) is sustainable."
+    },
+    {
+        "anchor": "Are trans women real women?",
+        "positive": "Transgender women are not women.",
+        "negative": "Transgender women are indeed real women."
+    },
+    {
+        "anchor": "Should airplane passengers pay for their body weight?",
+        "positive": "Airplane passengers should not pay for their body weight.",
+        "negative": "Airplane passengers should pay for their body weight."
+    },
+    {
+        "anchor": "Is the USA a good country to live in?",
+        "positive": "The USA is not a good country to live in.",
+        "negative": "The USA is a good country to live in."
+    },
+    {
+        "anchor": "Modern technology is a disadvantage to society.",
+        "positive": "Modern technology is an advantage to society.",
+        "negative": "Modern technology is a disadvantage to society."
+    },
+    {
+        "anchor": "Should Shark Culling Be Banned?",
+        "positive": "Shark culling should not be banned.",
+        "negative": "Shark culling should be banned."
+    },
+    {
+        "anchor": "Everyone Should Health Track - Self Quantify",
+        "positive": "Nobody should be obligated to health track - self quantify.",
+        "negative": "Everyone Should Health Track - Self Quantify"
+    },
+    {
+        "anchor": "Should science get more governmental funding?",
+        "positive": "Science should not receive more governmental funding.",
+        "negative": "Science should get more governmental funding."
+    },
+    {
+        "anchor": "Will human civilisation collapse (i.e regress or go extinct) ?",
+        "positive": "No, human civilization will not collapse (i.e regress or go extinct).",
+        "negative": "Will humanity make it or will civilisation collapse (i.e regress or go extinct) ?"
+    },
+    {
+        "anchor": "Should Florida Pass HB 887 (Guardianship)?",
+        "positive": "This bill proposes unnecessary changes to guardianship laws, insists on disrupting current public guardian terms, potentially intrudes on minors' visitation rights, places excessive emphasis on the need for robust evidence to limit contact, introduces complex protocols for suspending power of attorney, and imposes tedious regular guardianship re-assessments.",
+        "negative": "This bill revises guardianship laws, mandates public guardian rotation, sets minors' visitation rights, requires strong evidence to restrict contact, specifies power of attorney suspension protocols, and imposes periodic guardianship reevaluations"
+    },
+    {
+        "anchor": "Is AI art theft?",
+        "positive": "AI art creation does not amount to theft as it is an automated and non-malicious process that doesn't intentionally seek to infringe on any artist's intellectual property rights.",
+        "negative": "Text-to-image AI generators (like Midjourney and Dall\u00b7E2) are built on models that were mostly trained on images on the Internet without the permission or compensation of the artist or their estates. The assertion in question: This is theft."
+    },
+    {
+        "anchor": "Should Florida Pass SB 1178 (Condominium and Cooperative Associations)?",
+        "positive": "This bill would impose excessive regulations on condo/co-op associations, introduce complex manager/disclosure rules, and enforce punitive measures for noncompliance instead of fostering collaboration. Additionally, it dictates rigid conflict of interest protocols which may unnecessarily complicate things.",
+        "negative": "This bill regulates condo/co-op associations, entails manager/disclosure rules, mandates record return on contract end with penalties for noncompliance, and dictates conflict of interest protocols."
+    },
+    {
+        "anchor": "Should Florida Pass SB 1364 (Everglades Protection Area)?",
+        "positive": "This bill simplifies Florida small-scale development planning, prioritizing affordability but may limit public input and strain the environment.",
+        "negative": "Passing SB 1364 (Everglades Protection Area) in Florida could further complicate the small-scale development planning by imposing additional restrictions, potentially increasing the cost and encouraging more public input, which might help protect the environment."
+    },
+    {
+        "anchor": "Should Florida Pass SB 864 (Autism Spectrum Disorder Training for Law Enforcement Officers)?",
+        "positive": "This bill requires extensive training for police officers in dealing with autistic individuals, which could lead to budget strain and resource allocation issues.",
+        "negative": "This bill mandates training for law enforcement on interacting with people with autism, covering recognition, response techniques, and ensuring safety and rights."
+    },
+    {
+        "anchor": "Should Florida Pass HB 1431 (International Drug Reference Pricing)?",
+        "positive": "This bill sets up international price benchmarking for prescription drugs which begins only in 2025, may not guarantee lower costs for patients/payers, requires burdensome reporting, and enforces harsh fines for noncompliance.",
+        "negative": "This bill imposes international price benchmarking for prescription drugs from 2025, promises lower costs for patients/payers, demands reporting, and enforces fines for noncompliance."
+    },
+    {
+        "anchor": "Should Florida Pass SB 248 (Medical Negligence)?",
+        "positive": "Florida should not pass SB 248 as it may complicate the medical negligence laws, require in-depth understanding of claimable medical costs, and widen the scope of wrongful death claim eligibility, potentially leading to misuse. Furthermore, the mandate for regulatory findings for compensation could burden the system.",
+        "negative": "This bill revises Florida's medical negligence laws, detailing which medical costs can be claimed and broadening wrongful death claim eligibility. It mandates regulatory findings for compensation."
+    },
+    {
+        "anchor": "Should Florida Pass HB 3 (Online Access to Materials Harmful to Minors)?",
+        "positive": "The bill could impose heavy rules on websites, possibly restrict internet freedom, enforce potential misuse of age validation, and may entail unnecessary legal proceedings, taking effect from July 1, 2024.",
+        "negative": "The bill requires websites with substantial harmful material to verify users' ages, prohibits data misuse, and permits legal actions for noncompliance, effective July 1, 2024."
+    },
+    {
+        "anchor": "Should Florida Pass HB 1 (Social Media Use for Minors)?",
+        "positive": "This act brings unnecessary burden on social media companies, prohibits children under 16 from obtaining educational and entertaining benefits, and could potentially risk encroachment on freedom of speech, giving the authorities excessive control.",
+        "negative": "This mandates third-party age verification for minors on social media, bans all accounts for minors younger than 16, and requires platforms to disclose content and data policies, with penalties for non-compliance."
+    },
+    {
+        "anchor": "Is chivalry sexist?",
+        "positive": "Chivalry is not sexist.",
+        "negative": "Chivalry is sexist."
+    },
+    {
+        "anchor": "Did the British Empire do more harm than good to the people it ruled over?",
+        "positive": "The British Empire did more good than harm to the people it ruled over.",
+        "negative": "The British Empire did more harm than good to the people it ruled over."
+    },
+    {
+        "anchor": "Are UFOs real?",
+        "positive": "UFOs are not real.",
+        "negative": "UFOs are real."
+    },
+    {
+        "anchor": "Technological VS Moral Advancement",
+        "positive": "Moral advancement has kept pace with technological advancement, ensuring stability in societies nationally and globally by bolstering civil liberties and human rights.",
+        "negative": "Technological advancement has outpaced moral advancement, destabilizing societies at a national and global level through the degradation of civil liberties and human rights."
+    },
+    {
+        "anchor": "Should Drinking Water Be Fluoridated?",
+        "positive": "Drinking water should not be fluoridated.",
+        "negative": "Drinking water should be fluoridated."
+    },
+    {
+        "anchor": "Le tirage au sort des parlementaires est-il une alternative souhaitable \u00e0 l'\u00e9lection ?",
+        "positive": "Maintenir l'\u00e9lection des parlementaires plut\u00f4t que d'introduire un tirage au sort.",
+        "negative": "Remplacer l'\u00e9lection des parlementaires par un tirage au sort."
+    },
+    {
+        "anchor": "Is it responsible to have \"conservative\" values in politics?",
+        "positive": "Conservatism is irresponsible and stands in the way of progression.",
+        "negative": "Conservatism promotes responsibility and preserves essential values for societal progression."
+    },
+    {
+        "anchor": "Should Australians establish an Aboriginal and Torres Strait Islander Voice?",
+        "positive": "Australians should not establish an Aboriginal and Torres Strait Islander Voice.",
+        "negative": "Australians should establish an Aboriginal and Torres Strait Islander Voice."
+    },
+    {
+        "anchor": "Was Einstein Sexist?",
+        "positive": "Einstein was not a sexist.",
+        "negative": "Einstein was a sexist."
+    },
+    {
+        "anchor": "Should we require major polluter nations to open up their borders to climate refugees?",
+        "positive": "We should not impose a requirement on major polluter nations to accept climate refugees at their borders.",
+        "negative": "Should we require major polluter nations to open up their borders to climate refugees?"
+    },
+    {
+        "anchor": "Should we create a sports category that allows drug usage?",
+        "positive": "We should not create a sports category that allows drug usage.",
+        "negative": "We should create a sports category that allows drug usage."
+    },
+    {
+        "anchor": "Should vaccinations be mandatory?",
+        "positive": "Vaccinations should not be mandatory.",
+        "negative": "Vaccinations should be mandatory."
+    },
+    {
+        "anchor": "Do Ontological Arguments Prove God?",
+        "positive": "Ontological arguments do not prove God.",
+        "negative": "Ontological arguments prove God."
+    },
+    {
+        "anchor": "The Second Amendment to the U.S. Constitution should be repealed.",
+        "positive": "The Second Amendment to the U.S. Constitution should not be repealed.",
+        "negative": "The Second Amendment to the U.S. Constitution should be repealed."
+    },
+    {
+        "anchor": "Does overturning Roe v. Wade undermine American legal and civil freedoms?",
+        "positive": "Overturning Roe v. Wade does not undermine American legal and civil freedoms.",
+        "negative": "Overturning Roe v. Wade undermines American legal and civil freedoms."
+    },
+    {
+        "anchor": "Is Capitalism Bad?",
+        "positive": "Capitalism is Good",
+        "negative": "Capitalism is Bad"
+    },
+    {
+        "anchor": "Does the Bible support the conclusion that homosexuality is a sin against God?",
+        "positive": "The Bible does not support the conclusion that homosexuality is a sin against God.",
+        "negative": "The Bible does support the conclusion that homosexuality is a sin against God."
+    },
+    {
+        "anchor": "Should burning the Quran be illegal?",
+        "positive": "Burning the Quran should not be illegal according to the law.",
+        "negative": "Burning the Quran should be prohibited by law."
+    },
+    {
+        "anchor": "Has Xi Jinping been good for China?",
+        "positive": "Xi Jinping has not been good for China.",
+        "negative": "Xi Jinping has been good for China."
+    },
+    {
+        "anchor": "Will robots doing work be better or worse for humans?",
+        "positive": "Robots carrying out tasks will not be beneficial or detrimental for humans.",
+        "negative": "Will robots doing work be better or worse for humans?"
+    },
+    {
+        "anchor": "Is Space Exploration a Waste of Money?",
+        "positive": "Space exploration is not a waste of money.",
+        "negative": "Space exploration is a waste of money."
+    },
+    {
+        "anchor": "Does social media play a significant role in influencing people's behaviors, becoming a key driver of climate change?",
+        "positive": "Social media platforms do not significantly influence people's behaviors regarding climate change protection.",
+        "negative": "Social media platforms negatively impact people's behavior toward climate change protection."
+    },
+    {
+        "anchor": "Are video games currently more enjoyable than board games?",
+        "positive": "Board games are currently more enjoyable than online video games.",
+        "negative": "Online video games are currently more enjoyable than board games."
+    },
+    {
+        "anchor": "Is Shrek a superhero?",
+        "positive": "Shrek is not a superhero.",
+        "negative": "Shrek is a superhero."
+    },
+    {
+        "anchor": "Should Hunger Be The First Problem To Solve Before All Others?",
+        "positive": "Other problems should be prioritized before solving hunger.",
+        "negative": "Hunger Should Be The First Problem To Solve Before All Others."
+    },
+    {
+        "anchor": "Does Feminism Empower Both Women And Men?",
+        "positive": "Feminism does not empower both women and men.",
+        "negative": "Feminism empowers both women and men."
+    },
+    {
+        "anchor": "Should the US sell weapons with nuclear capabilities to Ukraine?",
+        "positive": "The US should not sell weapons with nuclear capabilities to Ukraine.",
+        "negative": "The US should sell weapons with nuclear capabilities to Ukraine."
+    },
+    {
+        "anchor": "Are gender and sex the same thing?",
+        "positive": "Gender and sex are not the same thing.",
+        "negative": "Gender and sex are the same thing."
+    },
+    {
+        "anchor": "Did a divine being create the universe?",
+        "positive": "A divine being did not create the universe.",
+        "negative": "A divine being created the universe."
+    },
+    {
+        "anchor": "Is God a Trinity?",
+        "positive": "God is not a Trinity.",
+        "negative": "God is a Trinity."
+    },
+    {
+        "anchor": "Are the Catholic teachings the best?",
+        "positive": "No, Catholic teachings are not superior to those of other religions or parents.",
+        "negative": "Catholic teachings are better than those of other religions or parents."
+    },
+    {
+        "anchor": "Is it racist to only support business based on owners race?",
+        "positive": "It is wrong to support businesses based on the owner's race.",
+        "negative": "It is not racist to only support businesses based on the owner's race."
+    },
+    {
+        "anchor": "Should the police be defunded?",
+        "positive": "The police should not be defunded.",
+        "negative": "The police should be defunded."
+    },
+    {
+        "anchor": "Will man-made climate change cause human extinction?",
+        "positive": "Man-made climate change will not cause human extinction.",
+        "negative": "Man-made climate change will cause human extinction."
+    },
+    {
+        "anchor": "Online learning is the future of education",
+        "positive": "Online learning is not the future of education.",
+        "negative": "Online learning is the future of education."
+    },
+    {
+        "anchor": "Rent control policies hurts housing affordability and should be repealed",
+        "positive": "Rent control policies aid housing affordability and should be maintained.",
+        "negative": "Rent control policies hurt housing affordability and should be repealed."
+    },
+    {
+        "anchor": "Is the original Political Compass a useful tool?",
+        "positive": "The original Political Compass is not a useful tool.",
+        "negative": "The original Political Compass is a useful tool."
+    },
+    {
+        "anchor": "Is banning books inherently wrong?",
+        "positive": "Banning or removing access to books is not inherently wrong.",
+        "negative": "Banning or removing access to books is inherently wrong."
+    },
+    {
+        "anchor": "Should Governments Put A Tax On Meat?",
+        "positive": "Governments should not impose a tax on meat.",
+        "negative": "Governments should put a tax on meat."
+    },
+    {
+        "anchor": "Was Jesus Christ actually the Messiah as claimed by Christianity?",
+        "positive": "Jesus Christ is not the Messiah as claimed by Christianity.",
+        "negative": "Jesus Christ is the Messiah as claimed by Christianity."
+    },
+    {
+        "anchor": "Is Moana OK to show in US schools given the religious depictions?",
+        "positive": "We should NOT allow the viewing of Moana in schools as it would be contrary to the separation of church and state.",
+        "negative": "We should allow the viewing of Moana in schools as the religious depictions do not interfere with the separation of church and state."
+    },
+    {
+        "anchor": "Should LGBTQ+ Campaigning Use The Narrative That LGBTQ+ People Are 'Born This Way'?",
+        "positive": "The LGBTQ+ rights movement should not rely on the narrative that queer individuals were 'Born This Way'.",
+        "negative": "The LGBTQ+ rights movement should use the narrative that queer individuals were 'Born This Way'."
+    },
+    {
+        "anchor": "Do we need religion for morality?",
+        "positive": "We don't need religion for morality.",
+        "negative": "We need religion for morality."
+    },
+    {
+        "anchor": "Is Capitalism the Best System for the People?",
+        "positive": "Capitalism is not the best system for the people.",
+        "negative": "Capitalism is the best system for the people."
+    },
+    {
+        "anchor": "Are Humans fundamentally different from other animals?",
+        "positive": "Humans are not fundamentally different from other animals.",
+        "negative": "Humans are fundamentally different from other animals."
+    },
+    {
+        "anchor": "Concerning vehicles, are ethanol engines better for the environment than electrification?",
+        "positive": "Electric vehicles would be better for the environment than ethanol vehicles.",
+        "negative": "Ethanol vehicles would be better for the environment than electric vehicles."
+    },
+    {
+        "anchor": "Should Comprehensive Sex Education be Mandatory?",
+        "positive": "Comprehensive Sexual Education should not be mandatory in Liberal Democracies.",
+        "negative": "Comprehensive Sexual Education should indeed be mandatory in Liberal Democracies."
+    },
+    {
+        "anchor": "Should voters in the UK have a final vote on the Brexit deal?",
+        "positive": "Voters in the UK should not have a final vote on the Brexit deal.",
+        "negative": "Voters in the UK should have a final vote on the Brexit deal."
+    },
+    {
+        "anchor": "Should parents perpetuate myths like Santa Claus and the Easter Bunny to their children?",
+        "positive": "Parents should not perpetuate myths like Santa Claus and the Easter Bunny to their children.",
+        "negative": "Parents should perpetuate myths like Santa Claus and the Easter Bunny to their children."
+    },
+    {
+        "anchor": "Is civil disobedience in a democracy morally justified?",
+        "positive": "Civil disobedience is not morally justified, even in a democracy.",
+        "negative": "Civil disobedience is morally justified, even in a democracy."
+    },
+    {
+        "anchor": "Is Narendra Modi good for India?",
+        "positive": "Narendra Modi has not been good for India.",
+        "negative": "Narendra Modi has been good for India."
+    },
+    {
+        "anchor": "Should students be allowed to use generative AI for assignments?",
+        "positive": "Students should not be allowed to use generative AI for assignments.",
+        "negative": "Students should be allowed to use generative AI for assignments."
+    },
+    {
+        "anchor": "Are free markets better for humans than regulated markets?",
+        "positive": "Regulated markets are better for humans than free markets.",
+        "negative": "Free markets are better than regulated markets."
+    },
+    {
+        "anchor": "Is Islam a threat to Western civilization?",
+        "positive": "Islam is not a threat to Western civilization.",
+        "negative": "Islam is a threat to Western civilization."
+    },
+    {
+        "anchor": "Should animal testing be banned?",
+        "positive": "Animal testing should not be banned.",
+        "negative": "Animal testing should be banned."
+    },
+    {
+        "anchor": "Should the EU have its own army?",
+        "positive": "The European Union should not establish its own centrally controlled army, but rather rely on the armies of its member states.",
+        "negative": "The European Union should create a centrally controlled army in addition to the armies of member states."
+    },
+    {
+        "anchor": "The Government should be mandated to provide people with a boyfriend or a girlfriend",
+        "positive": "The Government should not be mandated to provide people with a boyfriend or a girlfriend.",
+        "negative": "The Government should be mandated to provide people with a boyfriend or a girlfriend"
+    },
+    {
+        "anchor": "God Exists",
+        "positive": "The God of classical monotheism (omniscient, omnipotent, and omnibenevolent mind) does not exist.",
+        "negative": "The God of classical monotheism (omniscient, omnipotent, and omnibenevolent mind) exists."
+    },
+    {
+        "anchor": "Should HPV vaccines be provided free for everyone?",
+        "positive": "HPV vaccine should not be provided for free for everyone.",
+        "negative": "HPV vaccine should be made accessible to everyone for free."
+    },
+    {
+        "anchor": "Is Communism Actually Viable In The USA?",
+        "positive": "Communism Is Not Viable in the USA.",
+        "negative": "Communism Is Viable in the USA."
+    },
+    {
+        "anchor": "Should water be taxed?",
+        "positive": "Water should not be taxed.",
+        "negative": "Water should be taxed."
+    },
+    {
+        "anchor": "Should Kashmir Be An Independent State?",
+        "positive": "Kashmir should not be an independent state.",
+        "negative": "Kashmir should be an independent state."
+    },
+    {
+        "anchor": "Can man and all heavenly beings belong to the same species as God?",
+        "positive": "Man and all heavenly beings do not belong to the same species as God.",
+        "negative": "Man and all heavenly beings belong to the same species as God."
+    },
+    {
+        "anchor": "Should children be raised communally?",
+        "positive": "Children should not be raised communally.",
+        "negative": "Children should be raised communally."
+    },
+    {
+        "anchor": "Should school be mandatory until 12th grade?",
+        "positive": "School should not be mandatory until 12th grade.",
+        "negative": "School should be mandatory until 12th grade."
+    },
+    {
+        "anchor": "Should abortion of disabled fetuses be allowed for the reason that the fetus is disabled?",
+        "positive": "Abortion of disabled fetuses should not be allowed merely on the grounds that the fetus is disabled.",
+        "negative": "Abortion of disabled fetuses should be allowed for the reason that the fetus is disabled (also known as abortion by convenience)."
+    },
+    {
+        "anchor": "Personal and Social Implications of FOMO (the Fear of Missing Out)",
+        "positive": "FOMO is an essential element in the progression of society",
+        "negative": "FOMO can have detrimental personal and social implications, hindering the progression of society."
+    },
+    {
+        "anchor": "Should parents who don't vaccinate their children be fined if the child gets a vaccine-preventable illness?",
+        "positive": "Parents who don't vaccinate their children shouldn't be fined if the child gets a vaccine-preventable illness.",
+        "negative": "Parents who don't vaccinate their children should be fined if the child gets a vaccine-preventable illness."
+    },
+    {
+        "anchor": "Are women superior to men?",
+        "positive": "Women are not superior to men.",
+        "negative": "Women are superior to men."
+    },
+    {
+        "anchor": "No one should feel obliged to change their lifestyle to combat global warming.",
+        "positive": "Everyone should feel obliged to change their lifestyle to combat global warming.",
+        "negative": "No one should feel obliged to change their lifestyle to combat global warming."
+    },
+    {
+        "anchor": "Amazon ISEN",
+        "positive": "Amazon n'est pas bon pour le d\u00e9veloppement \u00e9conomique de l'ISEN.",
+        "negative": "Est ce qu'Amazon est bon pour le d\u00e9veloppement \u00e9conomique?"
+    },
+    {
+        "anchor": "Are human activities primarily responsible for global warming?",
+        "positive": "Human activities are not primarily responsible for global warming.",
+        "negative": "Human activities are primarily responsible for global warming."
+    },
+    {
+        "anchor": "Does God draw man through \"irresistible grace\"?",
+        "positive": "God does not draw man through \"irresistible grace.\"",
+        "negative": "God draws man through \"irresistible grace.\""
+    },
+    {
+        "anchor": "Should Men Pay Child Support When Abortion is Legal?",
+        "positive": "Men should be obligated to pay child support even when abortion is legal.",
+        "negative": "Men should not be forced to pay child support if abortion is a woman's right."
+    },
+    {
+        "anchor": "Should We Sing Problematic Christmas Songs?",
+        "positive": "We should sing problematic Christmas songs.",
+        "negative": "We should not sing problematic Christmas songs."
+    },
+    {
+        "anchor": "Should media organizations be penalized for spreading 'fake news'?",
+        "positive": "Media organizations should not be penalized for spreading 'fake news'.",
+        "negative": "News organizations should be penalized for spreading objectively false information."
+    },
+    {
+        "anchor": "Should democracies accept Ukrainian refugees and Russians seeking to escape Putin's tyranny?",
+        "positive": "Democracies should not accept both Ukrainian refugees fleeing the conflict and Russians seeking to escape Mr. Putin\u2019s tyranny.",
+        "negative": "Democracies should open their doors both to Ukrainian refugees fleeing the conflict and to Russians seeking to escape Mr. Putin\u2019s tyranny."
+    },
+    {
+        "anchor": "Should we automatically increase regulation as the economy does better and vice versa?",
+        "positive": "Regulatory policy shouldn't be automatic, adjusting to the economy's fluctuations; instead, it should remain static and unaffected by economic changes.",
+        "negative": "Regulatory policy should be dynamic, automatically tightening as the economy strengthens and loosening during downturns."
+    },
+    {
+        "anchor": "Is it important to get a college education?",
+        "positive": "Getting a college education isn't necessary.",
+        "negative": "It is important to get a college education."
+    },
+    {
+        "anchor": "Are the Hunter Biden emails as released by the New York Post authentic?",
+        "positive": "The Hunter Biden emails as released by the New York Post were not authentic.",
+        "negative": "The Hunter Biden emails as released by the New York Post were authentic."
+    },
+    {
+        "anchor": "Should failing banks receive bailouts from the government?",
+        "positive": "Failing banks should not receive bailouts from the government.",
+        "negative": "Failing banks should receive bailouts from the government."
+    },
+    {
+        "anchor": "Is an embryo a human?",
+        "positive": "An embryo is not a human.",
+        "negative": "An embryo is a human."
+    },
+    {
+        "anchor": "Ukraine should become a member of EU",
+        "positive": "Ukraine should not become a member of EU.",
+        "negative": "Ukraine should become a member of EU."
+    },
+    {
+        "anchor": "Is Joe Biden a good President?",
+        "positive": "Joe Biden is not a good president.",
+        "negative": "Joe Biden is a good president."
+    },
+    {
+        "anchor": "Should college tuition be free in the US?",
+        "positive": "College tuition should not be free in the US.",
+        "negative": "Should college tuition be free in the US?"
+    },
+    {
+        "anchor": "Are there more than two genders?",
+        "positive": "There are only two genders.",
+        "negative": "There are more than two genders."
+    },
+    {
+        "anchor": "One should vote yes on prop 22",
+        "positive": "One should vote no on prop 22.",
+        "negative": "One should vote yes on prop 22."
+    },
+    {
+        "anchor": "Our perception as humans is not necessarily the same as any other human",
+        "positive": "All humans have identical senses, consciousness, and perceptions.",
+        "negative": "No human's senses and consciousness are necessarily the same as any other human."
+    },
+    {
+        "anchor": "Should pedophilia be classed as a sexual orientation?",
+        "positive": "Pedophilia should not be classed as a sexual orientation.",
+        "negative": "Pedophilia should be classed as a sexual orientation."
+    },
+    {
+        "anchor": "Should the institution of prison be eliminated ?",
+        "positive": "No, the institution of prison should not be eliminated as it continues to serve as an effective measure for controlling crime and dealing with criminals in society.",
+        "negative": "The institution of prison should be done away with in modern society as it is a failed strategy for contending with criminals and crime."
+    },
+    {
+        "anchor": "Can men and women be \"just friends\"?",
+        "positive": "Men and women cannot be \"just friends\" without some form of romantic or sexual interest occurring on at least one side.",
+        "negative": "Men and women can be \"just friends\" without any romantic or sexual interest on either side."
+    },
+    {
+        "anchor": "Should dating apps allow users to filter on the basis of race?",
+        "positive": "Dating apps should not allow users to filter on the basis of race.",
+        "negative": "Dating apps should allow users to filter on the basis of race."
+    },
+    {
+        "anchor": "Is the Palestinian Cause a Just Cause?",
+        "positive": "The Palestinian cause is not a just cause.",
+        "negative": "The Palestinians should have sovereignty over historic Palestine."
+    },
+    {
+        "anchor": "Do we need to abolish capitalism to deal with climate change?",
+        "positive": "No, we do not need to abolish capitalism to deal with climate change.",
+        "negative": "We need to abolish capitalism to deal with climate change."
+    },
+    {
+        "anchor": "\u00bfPara o contra la implementaci\u00f3n de un idioma universal?",
+        "positive": "En contra de la implementaci\u00f3n de un idioma universal.",
+        "negative": "\u00bfPara o contra la implementaci\u00f3n de un idioma universal?"
+    },
+    {
+        "anchor": "Is being asexual/aromantic inherently under the LGBT+ umbrella?",
+        "positive": "Being asexual/aromantic is not inherently under the LGBT+ umbrella.",
+        "negative": "Being asexual/aromantic is inherently under the LGBT+ umbrella."
+    },
+    {
+        "anchor": "Is Chess A Sport?",
+        "positive": "Chess is not a sport.",
+        "negative": "Chess is indeed a sport."
+    },
+    {
+        "anchor": "Does pineapple belong on pizza?",
+        "positive": "Pineapple does not belong on pizza.",
+        "negative": "Pineapple belongs on pizza."
+    },
+    {
+        "anchor": "Should vaping be banned?",
+        "positive": "Vaping should not be banned.",
+        "negative": "Vaping should be banned."
+    },
+    {
+        "anchor": "Is capitalism good?",
+        "positive": "Capitalism is not good.",
+        "negative": "Capitalism is good."
+    },
+    {
+        "anchor": "Should the Bible be considered a historical document?",
+        "positive": "The Bible should not be considered a historical document.",
+        "negative": "The Bible should be considered a historical document."
+    },
+    {
+        "anchor": "Does the Bible describe Earth, not as a sphere, but as a disc covered by a solid dome?",
+        "positive": "The Old Testament does not portray Earth as a disc covered by a solid dome.",
+        "negative": "The Old Testament describes Earth not as a sphere, but as a circular platform covered by a dome."
+    },
+    {
+        "anchor": "Does Feminism Strive For Equality?",
+        "positive": "Feminism does not strive for equality.",
+        "negative": "Feminism strives for equality."
+    },
+    {
+        "anchor": "Is Sexual Orientation A Choice?",
+        "positive": "Sexual orientation is not a choice.",
+        "negative": "Sexual orientation is a choice."
+    },
+    {
+        "anchor": "Should corporal punishment be allowed in schools?",
+        "positive": "Corporal punishment should not be allowed in schools.",
+        "negative": "Corporal punishment should be allowed in schools."
+    },
+    {
+        "anchor": "Should the European Union legalize marijuana?",
+        "positive": "The EU should not legalize marijuana for either medical or recreational use.",
+        "negative": "The EU should legalize marijuana for medical and recreational use."
+    },
+    {
+        "anchor": "Free Speech on the Internet: Should Internet Companies Deny Service to White Supremacists?",
+        "positive": "Internet companies are wrong in denying services to white supremacists.",
+        "negative": "Internet companies are correct in denying services to white supremacists."
+    },
+    {
+        "anchor": "Is Anarchism Viable for the world?",
+        "positive": "Anarchism is not viable for the world.",
+        "negative": "Anarchism is viable for the world."
+    },
+    {
+        "anchor": "Feminism is toxic",
+        "positive": "Feminism is not toxic as it seeks to address and rectify gender inequality, and does not demonize or blame men.",
+        "negative": "Feminism is toxic as it promotes the superiority and victimhood mentality of women but demonizes and blames men."
+    },
+    {
+        "anchor": "Schools should teach the history of Israel Palestine conflict",
+        "positive": "Schools should not teach the history of the Israel Palestine conflict.",
+        "negative": "Schools should teach the history of Israel Palestine conflict"
+    },
+    {
+        "anchor": "Will the future be better than the present?",
+        "positive": "The future will not be better than the present.",
+        "negative": "The future will be better than the present."
+    },
+    {
+        "anchor": "Is there a meaning of life?",
+        "positive": "There is no meaning of life.",
+        "negative": "Yes, there is a meaning of life."
+    },
+    {
+        "anchor": "Should religion be allowed in public spaces?",
+        "positive": "Religion should not be allowed in public spaces.",
+        "negative": "Religious practices and expression should be allowed in public spaces."
+    },
+    {
+        "anchor": "Should animals be banned in circuses?",
+        "positive": "Animals should not be banned in circuses.",
+        "negative": "Animals should be banned in circuses."
+    },
+    {
+        "anchor": "The USA will continue to have an automobile based transportation system for the next 200 years.",
+        "positive": "The USA will not maintain an automobile-based transportation system for the next 200 years.",
+        "negative": "North America will continue to have an automobile-based transportation system for the next 200 years."
+    },
+    {
+        "anchor": "Should we Have a 100% Inheritance Tax?",
+        "positive": "We should not impose a 100% inheritance tax on all inherited wealth.",
+        "negative": "There should be a 100% inheritance tax on all inherited wealth above 1 million Euros."
+    },
+    {
+        "anchor": "Governments should impose methods of population control.",
+        "positive": "Governments should not impose any methods of population control.",
+        "negative": "Governments should impose coercive methods of population control."
+    },
+    {
+        "anchor": "Is anarchy the only ethical system of society?",
+        "positive": "Anarchy is not the only ethical system of society.",
+        "negative": "Anarchy is the only ethical system of society."
+    },
+    {
+        "anchor": "Does tiger parenting do more harm than good?",
+        "positive": "Tiger parenting does more good than harm.",
+        "negative": "Tiger parenting does more harm than good."
+    },
+    {
+        "anchor": "Should the idea of \u201ccountries\u201d be abolished?",
+        "positive": "The idea of \"countries\" should not be abolished.",
+        "negative": "Should the idea of \u201ccountries\u201d be abolished?"
+    },
+    {
+        "anchor": "Does Transgenderism exist?",
+        "positive": "Transgenderism does not exist.",
+        "negative": "Transgenderism does exist."
+    },
+    {
+        "anchor": "Should we get rid of paper money?",
+        "positive": "We should not get rid of paper money.",
+        "negative": "We should get rid of paper money."
+    },
+    {
+        "anchor": "Should we continue researching technologies to extend human life?",
+        "positive": "We should stop researching technologies to extend human life.",
+        "negative": "We should continue researching technologies to extend human life."
+    },
+    {
+        "anchor": "Can creativity be enhanced by technology?",
+        "positive": "Technology does not necessarily enhance the creative process.",
+        "negative": "Technology can enhance the creative process."
+    },
+    {
+        "anchor": "Mark Twain used the N-word in The Adventures of Huckleberry Finn. Should it be censored?",
+        "positive": "The racially insensitive words in The Adventures of Huckleberry Finn should not be altered when teaching it in schools.",
+        "negative": "Racially insensitive words in The Adventures of Huckleberry Finn should be changed when it's being taught in school."
+    },
+    {
+        "anchor": "Anything that exists is alive",
+        "positive": "Not everything that exists is alive",
+        "negative": "Anything that exists is alive"
+    },
+    {
+        "anchor": "Is King Charles III good for the United Kingdom?",
+        "positive": "King Charles III is not good for the United Kingdom.",
+        "negative": "King Charles III is good for the United Kingdom."
+    },
+    {
+        "anchor": "Does Mass legal immigration hurt America?",
+        "positive": "Mass legal immigration benefits America.",
+        "negative": "Mass legal immigration damages America."
+    },
+    {
+        "anchor": "Is Having Children Selfish?",
+        "positive": "Having a child is not selfish.",
+        "negative": "Having a Child is Selfish."
+    },
+    {
+        "anchor": "Was the Earth created in six days by the God of Christianity?",
+        "positive": "The Earth was not created in six days by the God of Christianity, contrary to what is described in Genesis.",
+        "negative": "The Earth was created in six days as described in Genesis."
+    },
+    {
+        "anchor": "Should India take a conciliatory stance with Canada over the alleged murder of Hardeep Singh Nijjar?",
+        "positive": "India should not take a conciliatory stance with Canada over the alleged murder of Hardeep Singh Nijjar.",
+        "negative": "India should take a conciliatory stance with Canada over the alleged murder of Hardeep Singh Nijjar."
+    },
+    {
+        "anchor": "Is the Collapse of the Silicon Valley Bank the Start of a Banking Crisis?",
+        "positive": "The collapse of the Silicon Valley Bank (SVB) is not indicative of a banking crisis.",
+        "negative": "The collapse of the Silicon Valley Bank (SVB) is the start of an economic crisis."
+    },
+    {
+        "anchor": "Will we ever have world peace?",
+        "positive": "Although many people dream that we will have world peace, it will never happen.",
+        "negative": "Even though it seems unlikely to many individuals, we will certainly achieve world peace one day."
+    },
+    {
+        "anchor": "What is the meaning of life?",
+        "positive": "There is no meaning to life.",
+        "negative": "What is the meaning of life?"
+    },
+    {
+        "anchor": "Are teacher and student relationships wrong?",
+        "positive": "Teacher-student relationships are not wrong if both parties are of legal age.",
+        "negative": "Teacher-student relationships are wrong, regardless of whether both parties are of legal age."
+    },
+    {
+        "anchor": "Should public entities use only open source software?",
+        "positive": "Public entities should not be restricted to using only open source software.",
+        "negative": "Public entities should only use open source software."
+    },
+    {
+        "anchor": "Lottery should be an integral component of democratic political systems",
+        "positive": "Lottery should not be an integral component of democratic political systems.",
+        "negative": "Lottery should be an integral component of democratic political systems"
+    },
+    {
+        "anchor": "Is having children a bad idea in today's times?",
+        "positive": "Having children is a good idea in today's times.",
+        "negative": "Having children is a bad idea in today's times."
+    },
+    {
+        "anchor": "Should the United States have Universal Basic Income?",
+        "positive": "The United States should not have universal basic income.",
+        "negative": "The United States should have universal basic income."
+    },
+    {
+        "anchor": "Does Gender Stereotyping Children Need To Stop?",
+        "positive": "Gender stereotyping children does not need to stop.",
+        "negative": "Gender stereotyping children needs to stop."
+    },
+    {
+        "anchor": "Should zoos be illegal? (excluding rescue zoos)",
+        "positive": "Zoos should not be illegal.",
+        "negative": "Zoos should be illegal."
+    },
+    {
+        "anchor": "Should all inheritance be seized by the state and auctioned?",
+        "positive": "No inheritance should be seized by the state and auctioned.",
+        "negative": "All inheritance should be seized by the state and auctioned."
+    },
+    {
+        "anchor": "Should the US remove Confederate memorials, flags, and monuments from public spaces?",
+        "positive": "The US should not remove Confederate memorials, flags, and monuments from public spaces.",
+        "negative": "The US should remove Confederate memorials, flags, and monuments from public spaces."
+    },
+    {
+        "anchor": "Separaci\u00f3n de la iglesia y la escuela en Rep\u00fablica Dominicana.",
+        "positive": "La iglesia deber\u00eda mantenerse unida a la escuela en Rep\u00fablica Dominicana.",
+        "negative": "La iglesia deber\u00eda separarse de la escuela en Rep\u00fablica Dominicana."
+    },
+    {
+        "anchor": "Is Christian Domestic Discipline right, and is it what the Bible really suggests?",
+        "positive": "Christian Domestic Discipline (CDD) is not morally acceptable, and it's not what the Bible truly advocates.",
+        "negative": "Christian Domestic Discipline (CDD) is morally acceptable."
+    },
+    {
+        "anchor": "Is There A Need For Testing on Lab Animals in Research?",
+        "positive": "There is no need for lab animals to be used in research.",
+        "negative": "There is a need for lab animals to be used in research."
+    },
+    {
+        "anchor": "Is Porn Beneficial?",
+        "positive": "Porn is not beneficial.",
+        "negative": "Porn is beneficial."
+    },
+    {
+        "anchor": "Will Covid19 bring lasting environmental changes?",
+        "positive": "Covid19 will not bring lasting environmental changes.",
+        "negative": "Will Covid19 bring lasting environmental changes?"
+    },
+    {
+        "anchor": "Is Saying #AllLivesMatter Instead of #BlackLivesMatter Better?",
+        "positive": "Saying #AllLivesMatter instead of #BlackLivesMatter is not better.",
+        "negative": "Saying #AllLivesMatter instead of #BlackLivesMatter is better."
+    },
+    {
+        "anchor": "Is transhumanism going to be the next step in human evolution?",
+        "positive": "Transhumanism is not going to be the next step in human evolution.",
+        "negative": "Transhumanism is going to be the next step in human evolution."
+    },
+    {
+        "anchor": "Should religious education be compulsory in public schools?",
+        "positive": "Religious education should not be compulsory in public schools.",
+        "negative": "Religious education should be compulsory in public schools."
+    },
+    {
+        "anchor": "Should Psychiatrists Be Allowed to Diagnose Trump?",
+        "positive": "The American Psychiatry Association should uphold the Goldwater Rule and prohibit psychiatrists from publicly diagnosing Trump.",
+        "negative": "The American Psychiatry Association should repeal the Goldwater Rule and allow psychiatrists to publicly diagnose Trump."
+    },
+    {
+        "anchor": "Is Vigilantism Ever Permissible?",
+        "positive": "Vigilantism is never permissible.",
+        "negative": "Vigilantism is permissible."
+    },
+    {
+        "anchor": "Should there be mandatory schools for parents?",
+        "positive": "There should not be mandatory schools for parents.",
+        "negative": "There should be mandatory schools for parents."
+    },
+    {
+        "anchor": "Should Quebec become independent?",
+        "positive": "Quebec should not become an independent country.",
+        "negative": "Quebec should become an independent country."
+    },
+    {
+        "anchor": "The Ethics of Eating Animals: Is Eating Meat Wrong?",
+        "positive": "Eating animal meat is not unethical and humans should not stop consuming it.",
+        "negative": "Humans should stop eating animal meat."
+    },
+    {
+        "anchor": "Is Cancel Culture Beneficial to Society?",
+        "positive": "Cancel culture is detrimental to society.",
+        "negative": "Cancel culture is beneficial to society."
+    },
+    {
+        "anchor": "All US and EU sanctions imposed on Russia since 2014 should be lifted",
+        "positive": "All US and EU sanctions imposed on Russia since 2014 should not be lifted.",
+        "negative": "All US and EU sanctions imposed on Russia since 2014 should be lifted."
+    },
+    {
+        "anchor": "Should Trump be impeached and removed from office?",
+        "positive": "Donald Trump should not be impeached and removed from office.",
+        "negative": "Donald Trump should be impeached and removed from office."
+    },
+    {
+        "anchor": "Should trans women be allowed to compete in women's sports?",
+        "positive": "Trans women should not be allowed to compete in women's sports.",
+        "negative": "Trans women should be allowed to compete in women's sports."
+    },
+    {
+        "anchor": "Should a license be required in order to have a child (procreate)?",
+        "positive": "A license should not be required in order to have a child (procreate).",
+        "negative": "A license should be required in order to have a child (procreate)."
+    },
+    {
+        "anchor": "Should everyone's wealth and income information be publicly available?",
+        "positive": "No one's wealth and income information should be publicly available.",
+        "negative": "Everyone's wealth and income information should be publicly available."
+    },
+    {
+        "anchor": "In Case Aliens Exist: Should We Say Hello?",
+        "positive": "In case aliens exist, we should not initiate contact.",
+        "negative": "In case aliens exist, we should say hello."
+    },
+    {
+        "anchor": "Is deliberately not preventing someone's death ethically equivalent to killing them?",
+        "positive": "Deliberately not preventing a death is not ethically equivalent to killing someone.",
+        "negative": "Deliberately not preventing a death is ethically equivalent to killing someone."
+    },
+    {
+        "anchor": "Should a global curfew be introduced to stop COVID-19?",
+        "positive": "A global curfew should not be introduced to stop COVID-19.",
+        "negative": "A global curfew should be introduced to stop COVID-19."
+    },
+    {
+        "anchor": "Is the state necessary and beneficial to society?",
+        "positive": "The state is not necessary nor beneficial to society.",
+        "negative": "The state is necessary and beneficial to society."
+    },
+    {
+        "anchor": "Homosexuality, should it be legal?",
+        "positive": "Homosexuality should not be legal in all countries.",
+        "negative": "Homosexuality should be legal in all countries."
+    },
+    {
+        "anchor": "Should same-sex marriage be legalised in Australia?",
+        "positive": "Should same-sex marriage not be legalised in Australia?",
+        "negative": "Should same-sex marriage be legalised in Australia?"
+    },
+    {
+        "anchor": "An anarchist society is preferable.",
+        "positive": "An anarchist society is not preferable.",
+        "negative": "An anarchist society is preferable."
+    },
+    {
+        "anchor": "Should humans prefer cats over dogs?",
+        "positive": "Humans should not prefer cats over dogs.",
+        "negative": "Humans should prefer cats over dogs."
+    },
+    {
+        "anchor": "Periodic lockdowns should be planned as emergency measures to fight climate change",
+        "positive": "Periodic lockdowns should not be considered as emergency measures to combat climate change.",
+        "negative": "Periodic lockdowns should be planned as emergency measures to fight climate change"
+    },
+    {
+        "anchor": "Governments should allow people to use education taxes as vouchers for private schools.",
+        "positive": "Governments should not permit people to use education taxes as vouchers for private schools.",
+        "negative": "People should be allowed to use education taxes as vouchers for private schools."
+    },
+    {
+        "anchor": "Banning semi automatic \"assault style\" rifles will do nothing to reduce gun violence",
+        "positive": "Banning semi automatic \"assault style\" rifles will significantly contribute to reducing gun violence.",
+        "negative": "Banning semi automatic \"assault style\" rifles will do almost nothing to reduce gun violence"
+    },
+    {
+        "anchor": "Would a non-monetary economy be ideal?",
+        "positive": "A non-monetary economy would not be ideal.",
+        "negative": "A non-monetary economy would be ideal."
+    },
+    {
+        "anchor": "Should Hate Speech Be Legally Protected?",
+        "positive": "Hate speech should not be legally protected.",
+        "negative": "Hate speech should be legally protected."
+    },
+    {
+        "anchor": "Does science justify atheism?",
+        "positive": "Science doesn't justify Atheism (understood as a \"lack of belief in god/s\").",
+        "negative": "Yes, science does justify atheism."
+    },
+    {
+        "anchor": "Should copyright be abolished?",
+        "positive": "Copyright should not be abolished.",
+        "negative": "Copyright should be abolished."
+    },
+    {
+        "anchor": "Should public displays of affection (PDA) be allowed in middle school and high school?",
+        "positive": "Public displays of affection (PDA) should not be allowed in middle school and high school.",
+        "negative": "Public displays of affection (PDA) should be allowed in middle school and high school."
+    },
+    {
+        "anchor": "Does Morality Precede Religion?",
+        "positive": "Religion precedes morality. Thus, religion is fundamental in distinguishing right from wrong.",
+        "negative": "Morality precedes religion. Therefore, religion is not necessary for determining right from wrong."
+    },
+    {
+        "anchor": "Should humanity establish colonies on Mars?",
+        "positive": "Humanity should not establish colonies on Mars.",
+        "negative": "Humanity should colonize Mars."
+    },
+    {
+        "anchor": "The Libertarian Solution: Can People Govern Themselves?",
+        "positive": "People cannot fully govern themselves; hence, the government's significant involvement in the lives of its citizens is necessary.",
+        "negative": "The government should be involved in the lives of its citizens as little as possible."
+    },
+    {
+        "anchor": "Promoting ethical businesses is the consumers' job, rather than corporations'",
+        "positive": "Promoting ethical businesses is the responsibility of the corporations, not the consumers'.",
+        "negative": "Promoting ethical businesses is the consumers' job, rather than corporations'."
+    },
+    {
+        "anchor": "Should schools require students to learn a second language?",
+        "positive": "Schools should not require students to learn a second language.",
+        "negative": "Schools should require students to learn a second language."
+    },
+    {
+        "anchor": "Should graphic warning images be removed from cigarette packaging?",
+        "positive": "Graphic warning images on cigarette packaging should not be removed.",
+        "negative": "Graphic warning images on cigarette packaging should be removed."
+    },
+    {
+        "anchor": "Should Planned Parenthood Be Defunded?",
+        "positive": "Planned Parenthood should not be defunded.",
+        "negative": "Planned Parenthood should be defunded."
+    },
+    {
+        "anchor": "Does homophobia originate in gender inequality?",
+        "positive": "Homophobia does not originate in gender inequality.",
+        "negative": "Homophobia is caused by gender inequality."
+    },
+    {
+        "anchor": "Should scientific studies be available free of charge?",
+        "positive": "Scientific studies should not be available free of charge.",
+        "negative": "Scientific studies should be available free of charge."
+    },
+    {
+        "anchor": "Who was Jesus of Nazareth?",
+        "positive": "Jesus was an ordinary human.",
+        "negative": "Jesus of Nazareth was not an ordinary human."
+    },
+    {
+        "anchor": "Should Hasina resign in light of the Bangladesh protests?",
+        "positive": "Prime Minister Sheikh Hasina should not resign in light of the Bangladesh protests.",
+        "negative": "Prime Minister Sheikh Hasina should resign in light of the Bangladesh protests."
+    },
+    {
+        "anchor": "Is Mail-In Voting the Best Way to Vote in US Elections?",
+        "positive": "Mail-in voting is not the best way to vote in US elections.",
+        "negative": "Mail-in voting is the best way to vote in US elections."
+    },
+    {
+        "anchor": "Should scientists be evaluated by the number of their scientific papers and citations?",
+        "positive": "Scientists should not be evaluated by the number of their scientific papers and citations.",
+        "negative": "Scientists should be evaluated by the number of their scientific papers and citations."
+    },
+    {
+        "anchor": "Is science political?",
+        "positive": "Science is not political.",
+        "negative": "Science is political."
+    },
+    {
+        "anchor": "Is the constitution nearly dead?",
+        "positive": "The constitution remains robust and influential despite the prevalence of other laws.",
+        "negative": "Laws, superseding the constitution, have become a serious problem."
+    },
+    {
+        "anchor": "Did Covid-19 originate from a lab leak?",
+        "positive": "The Lab-leak hypothesis is unlikely to be true.",
+        "negative": "The Lab-leak hypothesis is likely to be true."
+    },
+    {
+        "anchor": "Does it make sense to change India's official name to Bharat?",
+        "positive": "It does not make sense to change India's official name to Bharat.",
+        "negative": "There is a movement in India, led by the Government, to officially rename India to Bharat. Is that a good idea?"
+    },
+    {
+        "anchor": "Is Star Citizen a scam?",
+        "positive": "Star Citizen is not a scam.",
+        "negative": "Star Citizen is a scam."
+    },
+    {
+        "anchor": "Should the government provide funding for arts programs?",
+        "positive": "The government should not provide funding for arts programs.",
+        "negative": "The government should provide funding for arts programs."
+    },
+    {
+        "anchor": "Should Private Cars Be Forbidden In Large Cities?",
+        "positive": "Private cars should not be forbidden in large cities.",
+        "negative": "Private cars should be forbidden in large cities."
+    },
+    {
+        "anchor": "Is Joe Biden better than Donald Trump?",
+        "positive": "Donald Trump is better than Joe Biden.",
+        "negative": "Joe Biden is better than Donald Trump."
+    },
+    {
+        "anchor": "Would teleportation be beneficial if it existed?",
+        "positive": "Teleportation would not be beneficial if it were to exist.",
+        "negative": "Teleportation would be beneficial if it were to exist."
+    },
+    {
+        "anchor": "Is Earth flat instead of a sphere?",
+        "positive": "Earth is not flat but spherical.",
+        "negative": "Yes, Earth is flat instead of a spherical shape."
+    },
+    {
+        "anchor": "Should plastic water bottles have a five-cent deposit on every bottle?",
+        "positive": "Plastic water bottles should not have a five-cent deposit on every bottle.",
+        "negative": "Plastic water bottles should have a five-cent deposit on every bottle."
+    },
+    {
+        "anchor": "Should COVID-19 Vaccines be Mandatory?",
+        "positive": "COVID-19 vaccines should not be mandatory.",
+        "negative": "COVID-19 vaccines should be mandatory."
+    },
+    {
+        "anchor": "Is ChatGPT AGI?",
+        "positive": "ChatGPT is not AGI.",
+        "negative": "ChatGPT is AGI."
+    },
+    {
+        "anchor": "Should the US forgive student loan debt for all?",
+        "positive": "Student loan debt in the US should not be forgiven for all.",
+        "negative": "Student loan debt in the US should be forgiven for all."
+    },
+    {
+        "anchor": "Should communism be preferred over capitalism?",
+        "positive": "Capitalism should be preferred over communism.",
+        "negative": "Communism should be preferred over capitalism."
+    },
+    {
+        "anchor": "Is Mass Immigration into Europe a Positive Thing for Indigenous Europeans?",
+        "positive": "Mass immigration into Europe is not a positive thing for indigenous Europeans.",
+        "negative": "Mass immigration into Europe is a positive thing for indigenous Europeans."
+    },
+    {
+        "anchor": "Can anything be proven without assumption?",
+        "positive": "Yes, some things can be proven without any assumptions.",
+        "negative": "Nothing can be proven without presuppositions."
+    },
+    {
+        "anchor": "Are electric cars bad for the environment?",
+        "positive": "Electric cars are not bad for the environment.",
+        "negative": "Electric cars are bad for the environment."
+    },
+    {
+        "anchor": "Should people marry outside their religious faith?",
+        "positive": "People should not marry outside their religious faith.",
+        "negative": "People should marry outside their religious faith."
+    },
+    {
+        "anchor": "Should hate speech be illegal?",
+        "positive": "Hate speech should not be made illegal.",
+        "negative": "Hate speech should be banned."
+    },
+    {
+        "anchor": "Should School be Mandatory?",
+        "positive": "School should not be mandatory.",
+        "negative": "School should be mandatory."
+    },
+    {
+        "anchor": "Does the US need to fix its Patenting System?",
+        "positive": "The US patenting system doesn't require any reform.",
+        "negative": "The US patenting system needs reform."
+    },
+    {
+        "anchor": "Are video games the best source of entertainment?",
+        "positive": "Video games are not the best source of entertainment.",
+        "negative": "Video games are the best source of entertainment."
+    },
+    {
+        "anchor": "Should Australia become a republic?",
+        "positive": "Australia should not become a republic.",
+        "negative": "Australia should become a republic."
+    },
+    {
+        "anchor": "Should the US continue to support ukraine?",
+        "positive": "The US should not continue to support Ukraine.",
+        "negative": "Should the US continue to support Ukraine as the war continues?"
+    },
+    {
+        "anchor": "Are the Rules of the US Criminal Justice System Fair?",
+        "positive": "The rules of the US criminal justice system are not fair.",
+        "negative": "The rules of the US criminal justice system are fair."
+    },
+    {
+        "anchor": "Should churches pay tax?",
+        "positive": "Churches in the United States should retain their automatic tax-exempt status.",
+        "negative": "Churches in the United States should lose their automatic tax-exempt status."
+    },
+    {
+        "anchor": "Should Ukraine surrender in order to save lives?",
+        "positive": "Ukraine should not surrender in order to save lives.",
+        "negative": "Ukraine should surrender in order to save lives."
+    },
+    {
+        "anchor": "Should American Football Be Banned?",
+        "positive": "American football should not be banned.",
+        "negative": "American football should be banned."
+    },
+    {
+        "anchor": "Should sensitive social and political topics be discussed in school?",
+        "positive": "Sensitive social and political topics should not be discussed in school.",
+        "negative": "Sensitive social and political topics should be discussed in school."
+    },
+    {
+        "anchor": "Social media sites should prioritise posts and accounts that raise awareness on the Israel Palestine conflict.",
+        "positive": "Social media sites should not prioritise posts and accounts that raise awareness on the Israel Palestine conflict.",
+        "negative": "Social media sites should prioritise posts and accounts that raise awareness on the Israel Palestine conflict."
+    },
+    {
+        "anchor": "The fewer languages there are, the better the world is.",
+        "positive": "The more languages there are, the better the world is.",
+        "negative": "The fewer languages there are, the better the world is."
+    },
+    {
+        "anchor": "Is Science Akin To Religion?",
+        "positive": "Science is not akin to religion.",
+        "negative": "Science is akin to religion."
+    },
+    {
+        "anchor": "Are we becoming increasingly more intelligent than previous generations?",
+        "positive": "We are not becoming increasingly more intelligent than previous generations.",
+        "negative": "We are becoming increasingly more intelligent than previous generations."
+    },
+    {
+        "anchor": "Which one is more accurate: Rationalism or Empiricism?",
+        "positive": "Empiricism is more accurate than Rationalism.",
+        "negative": "Rationalism is more accurate than Empiricism."
+    },
+    {
+        "anchor": "Should Election Campaigns only be Funded by the Government?",
+        "positive": "Election campaigns should not only be funded by the government.",
+        "negative": "Election campaigns should only be funded by the government."
+    },
+    {
+        "anchor": "How heavily should governments enforce regulations?",
+        "positive": "Governments should not strictly enforce all regulations.",
+        "negative": "Governments should heavily enforce all regulations."
+    },
+    {
+        "anchor": "Should China pay reparations for the spread of coronavirus?",
+        "positive": "China should not pay reparations for the spread of the coronavirus.",
+        "negative": "China should pay reparations for the spread of the coronavirus."
+    },
+    {
+        "anchor": "Transparent AI",
+        "positive": "AI should not necessarily be made transparent by design before marketing the system or focusing on other improvements.",
+        "negative": "AI should be made transparent by design before marketing the system or focusing on other improvements."
+    },
+    {
+        "anchor": "Is the principle of pet ownership vegan?",
+        "positive": "The principle of pet ownership is not vegan.",
+        "negative": "The principle of pet ownership is vegan."
+    },
+    {
+        "anchor": "Are Jehovah's Witnesses the Most Accurate Church?",
+        "positive": "Jehovah's Witnesses are not the most accurate church.",
+        "negative": "Jehovah's Witnesses are the most accurate church."
+    },
+    {
+        "anchor": "Should The Constitution Be Redrafted And Rewritten?",
+        "positive": "The Constitution should not be redrafted and rewritten.",
+        "negative": "The Constitution should be redrafted and rewritten."
+    },
+    {
+        "anchor": "Should Neopronouns be officially integrated into the English language?",
+        "positive": "Neopronouns should not be officially integrated into the English language.",
+        "negative": "Neopronouns should be officially integrated into the English language."
+    },
+    {
+        "anchor": "Does Pastafarianism deserve the same rights as other religions?",
+        "positive": "Pastafarianism should not be granted the same rights as other religions.",
+        "negative": "Pastafarianism should be granted the same rights as other religions."
+    },
+    {
+        "anchor": "Is killing vampires immoral?",
+        "positive": "Killing vampires is not immoral.",
+        "negative": "Killing vampires is immoral."
+    },
+    {
+        "anchor": "Should Western nations roll back all personnel and aid from Niger following the coup?",
+        "positive": "Western nations should not roll back all personnel and aid from Niger following the coup.",
+        "negative": "Western nations should roll back all personnel and aid from Niger following the coup."
+    },
+    {
+        "anchor": "Are corporate mergers and acquisitions not beneficial to society?",
+        "positive": "Corporate mergers/acquisitions are beneficial to society.",
+        "negative": "Corporate mergers/acquisitions aren't beneficial to society."
+    },
+    {
+        "anchor": "Was Trump a good president?",
+        "positive": "Trump was not a good president.",
+        "negative": "Trump was a good president."
+    },
+    {
+        "anchor": "Will cryptocurrencies replace fiat currencies?",
+        "positive": "Cryptocurrencies will not replace fiat currencies.",
+        "negative": "Cryptocurrencies will inevitably replace fiat currencies."
+    },
+    {
+        "anchor": "Is sex with no emotional attachment good for your mind?",
+        "positive": "Sex with no emotional attachment is not good for your mind.",
+        "negative": "Sex with no emotional attachment is good for your mind."
+    },
+    {
+        "anchor": "Should Weed be legalized",
+        "positive": "Should Weed not be legalized",
+        "negative": "Should Weed be legalized"
+    },
+    {
+        "anchor": "Does society benefit from religious belief and practice?",
+        "positive": "Society does not benefit from religious belief and practice.",
+        "negative": "Society benefits from religious belief and practice."
+    },
+    {
+        "anchor": "Is it ethical to design and build weapons of war?",
+        "positive": "It is unethical to design and build weapons of war.",
+        "negative": "It is ethical to design and build weapons of war."
+    },
+    {
+        "anchor": "Should all forms of circumcision of minors be banned?",
+        "positive": "All forms of circumcision of minors should not be banned.",
+        "negative": "All forms of circumcision of minors should be banned"
+    },
+    {
+        "anchor": "Should we adopt a universal language?",
+        "positive": "We should not adopt a universal language.",
+        "negative": "We should adopt a universal language."
+    },
+    {
+        "anchor": "Are modern democracies destined to fail due to their inherent weaknesses?",
+        "positive": "Modern democracies are not destined to fail due to their inherent weaknesses.",
+        "negative": "Modern democracies are destined to fail due to their inherent weaknesses."
+    },
+    {
+        "anchor": "Should People in Positions of Authority Resign When Accused of Sexual Assault?",
+        "positive": "People in positions of authority should not necessarily resign when accused of sexual assault.",
+        "negative": "People in positions of authority should resign when accused of sexual assault."
+    },
+    {
+        "anchor": "Should Teachers Be Allowed To Wear Religious Symbols At School?",
+        "positive": "Teachers should not be allowed to wear religious symbols at school.",
+        "negative": "Teachers should be allowed to wear religious symbols at school."
+    },
+    {
+        "anchor": "The Republic of Ireland should maintain its status of being a militarily neutral country.",
+        "positive": "The Republic of Ireland should reconsider its status of being a militarily neutral country.",
+        "negative": "The Republic of Ireland should maintain its status of being a military neutral country."
+    },
+    {
+        "anchor": "Is standardized testing an effective measure of student learning in schools?",
+        "positive": "Standardized testing, according to several educators, parents, and policymakers, is not an effective measure of student learning in schools. Despite some arguing that they provide an objective evaluation, many contend that these assessments fail to reliably gauge student progress and may even undermine the identification of areas requiring improvement.",
+        "negative": "Standardized testing has long been a controversial topic among educators, parents, and policymakers. While some argue that standardized tests provide an objective measure of student learning and help identify areas where improvement is needed, others contend that such tests are an ineffective and unreliable way to evaluate student progress."
+    },
+    {
+        "anchor": "Should high-income countries take in refugees?",
+        "positive": "High-income countries should not take in a large number of refugees.",
+        "negative": "High-income countries should take in significant numbers of refugees."
+    },
+    {
+        "anchor": "Bruciare i libri sacri",
+        "positive": "Non \u00e8 giusto che sia consentito dalla legge bruciare in pubblico testi sacri, per esprimere il proprio dissenso",
+        "negative": "E' giusto che sia consentito dalla legge bruciare in pubblico testi sacri, per esprimere il proprio dissenso"
+    },
+    {
+        "anchor": "Would Kamala Harris be a good replacement for Biden?",
+        "positive": "Kamala Harris would not be a good replacement for Biden.",
+        "negative": "Kamala Harris would be a good replacement for Biden."
+    },
+    {
+        "anchor": "La Uni\u00f3n Europea deber\u00eda convertirse en los Estados Unidos de Europa",
+        "positive": "La Uni\u00f3n Europea no deber\u00eda convertirse en los Estados Unidos de Europa.",
+        "negative": "La Uni\u00f3n Europea deber\u00eda convertirse en los Estados Unidos de Europa."
+    },
+    {
+        "anchor": "Does Islam show miraculous signs of the divine reality?",
+        "positive": "Islam does not necessarily exhibit miraculous signs of the divine reality.",
+        "negative": "The Quran is Miraculous."
+    },
+    {
+        "anchor": "The age restriction on being able to run for president should be lowered.",
+        "positive": "The age restriction on being able to run for president should not be lowered in the USA.",
+        "negative": "The age restriction on being able to run for president should be lowered to 21 in the USA."
+    },
+    {
+        "anchor": "Is Western culture superior to other cultures?",
+        "positive": "Western culture is not superior to other cultures.",
+        "negative": "Western culture is superior to other cultures."
+    },
+    {
+        "anchor": "Is stealing ever acceptable?",
+        "positive": "Stealing is never acceptable.",
+        "negative": "Yes, stealing can be acceptable in certain circumstances."
+    },
+    {
+        "anchor": "Are Ghosts Real?",
+        "positive": "Ghosts aren't real.",
+        "negative": "Ghosts are real."
+    },
+    {
+        "anchor": "Should Dogs Be Banned In Cities?",
+        "positive": "Dogs should not be banned in cities.",
+        "negative": "Owning dogs should be banned in cities."
+    },
+    {
+        "anchor": "Should TV shows/movies be realistic to real life?",
+        "positive": "TV shows/Movies should avoid depictions of discrimination and biases even if they reflect real life situations.",
+        "negative": "Movies/TV shows shouldn't avoid discrimination and biases in are society (excluding movies/ TV shows that are based around these topics)"
+    },
+    {
+        "anchor": "Is face to face learning better than online?",
+        "positive": "Online learning is more effective than face to face learning.",
+        "negative": "Face to face learning is more effective than online."
+    },
+    {
+        "anchor": "Should investors incorporate climate change in their decisions",
+        "positive": "Investors should not incorporate climate change in their decisions.",
+        "negative": "Should investors incorporate climate change in their decisions"
+    },
+    {
+        "anchor": "Are women too anxious about the world or is the world too dangerous for women?",
+        "positive": "The world is not excessively dangerous for women; their anxiety about the world is not because of its perceived danger. Men and women manage the dangers of the world in remarkably similar ways.",
+        "negative": "The world is dangerous for everybody, but there is a significant difference between men and women with how they deal with the world."
+    },
+    {
+        "anchor": "Should University professors focus on helping failing students?",
+        "positive": "University professors should concentrate on advancing the entire class, not just the failing students, when planning their course materials.",
+        "negative": "Teachers should target the failing students when designing the course materials"
+    },
+    {
+        "anchor": "Can teaching textbooks be replaced by online resources?",
+        "positive": "K-12 teachers should not replace textbooks with projects and teacher-selected online resources.",
+        "negative": "K-12 teachers should replace textbooks with projects and teacher-selected online resources."
+    },
+    {
+        "anchor": "Should we allow the state to discriminate based on race? (CA Prop 16, Repeal Prop 209 Affirmative Action Amendment)",
+        "positive": "No, we should not allow the state to discriminate based on race. Prop 209, which prohibits such discrimination, should be upheld to ensure equality for all Californians. Prop 16, which seeks to repeal Prop 209, could lead to unfair preferential treatment and is hence not advisable.",
+        "negative": "Civil rights Prop 209, which made it illegal for the state to discriminate against any person based on race, should be repealed so that we can take 'Affirmative Action' in California. Prop 16, Repeal Prop 209 Affirmative Action Amendment 2020"
+    },
+    {
+        "anchor": "Are American suburbs harmful?",
+        "positive": "American suburbs are not harmful to their residents or the environment.",
+        "negative": "Suburbs in the US are harmful to both their residents and to the environment"
+    },
+    {
+        "anchor": "Are Latter-day Saints (aka Mormons) Christian?",
+        "positive": "Latter-day Saints are not Christian.",
+        "negative": "Latter-day Saints are Christian."
+    },
+    {
+        "anchor": "Does the Bible say that abortion is wrong?",
+        "positive": "The Bible does not explicitly mention or condemn abortion.",
+        "negative": "The Bible claims that abortion is wrong."
+    },
+    {
+        "anchor": "Should the United States federal government should substantially increase its military presence in the Arctic?",
+        "positive": "The United States federal government should not substantially increase its military presence in the Arctic.",
+        "negative": "The United States federal government should substantially increase its military presence in the Arctic."
+    },
+    {
+        "anchor": "Should the NHS be privatised?",
+        "positive": "The NHS should not be privatised.",
+        "negative": "The NHS should be privatised."
+    },
+    {
+        "anchor": "Should gender and sexuality topics be discussed in public schools?",
+        "positive": "Gender and sexuality topics should not be discussed in public schools at all.",
+        "negative": "Gender, sexuality and sexual concepts should be offered in an optional class to high school students only."
+    },
+    {
+        "anchor": "Should HBO reboot Harry Potter?",
+        "positive": "HBO should not reboot Harry Potter.",
+        "negative": "HBO should reboot Harry Potter."
+    },
+    {
+        "anchor": "Is Fascism a moral good?",
+        "positive": "Fascism undermines the morality of a society.",
+        "negative": "Fascism leads to a more moral society."
+    },
+    {
+        "anchor": "What Defines a 'True' Follower of a Religion?",
+        "positive": "A 'true' follower of a religion is defined by strictly adhering to all the established rules of that religion.",
+        "negative": "You can be a true follower of a religion without following all the rules."
+    },
+    {
+        "anchor": "There should be a 5 pound/dollar fine every time you drive.",
+        "positive": "There should not be a 5 pound/dollar fine every time you drive.",
+        "negative": "There should be a 5 pound/dollar fine every time you drive."
+    },
+    {
+        "anchor": "Is Religious Indoctrination of Children Abuse?",
+        "positive": "Religious indoctrination of children is not abuse.",
+        "negative": "Religious indoctrination of children is indeed abuse."
+    },
+    {
+        "anchor": "Should Cinco de Mayo be celebrated in the US?",
+        "positive": "Cinco de Mayo should not be celebrated in the US.",
+        "negative": "Cinco de Mayo should be celebrated in the US."
+    },
+    {
+        "anchor": "Sortition is Better than Representation",
+        "positive": "Representation is Better than Sortition",
+        "negative": "Sortition is Better than Representation"
+    },
+    {
+        "anchor": "Do Statements Exist That Are Both True and False?",
+        "positive": "No, statements do not exist that are both true and false.",
+        "negative": "Statements exist that are both true and false."
+    },
+    {
+        "anchor": "Do Humanities have less value than Natural Sciences?",
+        "positive": "Humanities do not have less value than natural sciences.",
+        "negative": "Humanities have less value than natural sciences."
+    },
+    {
+        "anchor": "Should Esperanto be adopted internationally?",
+        "positive": "Esperanto should not be adopted internationally.",
+        "negative": "Esperanto should be adopted internationally."
+    },
+    {
+        "anchor": "Was the American Civil War (1861-65) mainly about slavery?",
+        "positive": "The American Civil War (1861-1865) was not mainly about slavery.",
+        "negative": "The American Civil War (1861-1865) was mainly about slavery."
+    },
+    {
+        "anchor": "Do we need nuclear power for sustainable energy production?",
+        "positive": "We do not need nuclear power for sustainable energy production.",
+        "negative": "Nuclear power (fission) is desirable for sustainable energy production."
+    },
+    {
+        "anchor": "Should Macron resign following the nationwide protests in 2023?",
+        "positive": "Macron should not resign following the nationwide protests in 2023.",
+        "negative": "Macron should resign following the nationwide protests in 2023."
+    },
+    {
+        "anchor": "Should Asia form a union similar to the EU?",
+        "positive": "Asia should not form a union similar to the EU.",
+        "negative": "Asia should form a union similar to the EU?"
+    },
+    {
+        "anchor": "Should Turkey acknowledge the Armenian genocide?",
+        "positive": "Turkey should not acknowledge the Armenian genocide.",
+        "negative": "Turkey should acknowledge the Armenian genocide."
+    },
+    {
+        "anchor": "Should we judge the quality of artwork based on the conduct of the artist?",
+        "positive": "We should judge the quality of artwork based on the conduct of the artist.",
+        "negative": "The quality of artwork should not be judged based on the conduct of the artist."
+    },
+    {
+        "anchor": "Logical Fallacies can be used to make a point.",
+        "positive": "Logical Fallacies should never be used to make a point. They undermine the integrity of an argument, including instances of a Reductio Ad Absurdum argument or a Slippery Slope argument, regardless of the situation or example fitting the fallacy.",
+        "negative": "Logical Fallacies can be used to make a point. But they should be limited in their usage. For instance, a Reductio Ad Absurdum argument or a Slippery Slope argument, especially in a case where examples that fit the fallacy can be used."
+    },
+    {
+        "anchor": "Can the Earth be Under 10,000 Years Old?",
+        "positive": "The earth cannot be under 10,000 years old.",
+        "negative": "The earth can indeed be under 10,000 years old."
+    },
+    {
+        "anchor": "Is Alcoholism a Disease?",
+        "positive": "Alcoholism is not a disease.",
+        "negative": "Alcoholism is a disease."
+    },
+    {
+        "anchor": "Could Hitler have won World War 2?",
+        "positive": "Hitler could not have won World War 2.",
+        "negative": "Hitler could have won World War 2."
+    },
+    {
+        "anchor": "Should employers be legally allowed to fire employees because of their social media activity?",
+        "positive": "Employers should not be legally allowed to fire employees due to their social media activity.",
+        "negative": "Employers should be legally allowed to fire employees due to their social media activity."
+    },
+    {
+        "anchor": "Should the Primary Focus of Prisons be Rehabilitation, or Punishment?",
+        "positive": "The primary focus of prisons should be punishment, not rehabilitation and reintegration.",
+        "negative": "The primary focus of prisons should be rehabilitation and reintegration, not punishment."
+    },
+    {
+        "anchor": "Do all or most White Americans experience privilege?",
+        "positive": "Not all or most White Americans living in the U.S. today experience privileges exclusive only to whites.",
+        "negative": "All or most White Americans living in the U.S. today experience privileges exclusive only to whites."
+    },
+    {
+        "anchor": "Is it unethical to declaw a cat?",
+        "positive": "Declawing a cat is not unethical - there are a number of organizations and websites that support this procedure and they frequently cite scientific research to back up their stance.",
+        "negative": "It is unethic to declaw a cat - there are a number of organizations and websites that are opposed to it but don't typically share scientific research on the impacts."
+    },
+    {
+        "anchor": "Should every country be ethno-nationalist?",
+        "positive": "No country should be ethno-nationalist.",
+        "negative": "Every country should be ethno-nationalist."
+    },
+    {
+        "anchor": "Is Cloning Humans Ethical?",
+        "positive": "Cloning humans is unethical.",
+        "negative": "Cloning humans is ethical."
+    },
+    {
+        "anchor": "The US should adopt a carbon fee and dividend plan to address the primary cause of climate change.",
+        "positive": "The US should not adopt a carbon fee and dividend plan as a solution to the primary causes of climate change.",
+        "negative": "The US should adopt a carbon fee and dividend plan to address the primary causes of climate change."
+    },
+    {
+        "anchor": "Should physical libraries be digitized?",
+        "positive": "Physical libraries should continue to maintain their physical presence and not be fully digitized.",
+        "negative": "Libraries should stop having a physical presence and instead only exist digitally (i.e. online)."
+    },
+    {
+        "anchor": "Should the US stop trying to force North Korea to abandon its nuclear program?",
+        "positive": "The US should continue to try and force North Korea to abandon its nuclear program.",
+        "negative": "The US should not try to force North Korea to abandon its nuclear program."
+    },
+    {
+        "anchor": "Would capitalism abolish democracy?",
+        "positive": "Capitalism will not abolish democracy.",
+        "negative": "Capitalism will abolish democracy."
+    },
+    {
+        "anchor": "Is having police officers in schools a good idea?",
+        "positive": "Having police officers in schools is not a good idea.",
+        "negative": "Having police officers in schools is a good idea."
+    },
+    {
+        "anchor": "Was Covid-19 more dangerous than regular flu viruses?",
+        "positive": "Covid-19 was not more dangerous than regular flu viruses.",
+        "negative": "Covid-19 was much more dangerous than regular flu viruses."
+    },
+    {
+        "anchor": "Does the United States Need a Strong Third Political Party For Moderates?",
+        "positive": "The United States does not need a strong third political party for moderates.",
+        "negative": "The United States needs a strong political party for moderates."
+    },
+    {
+        "anchor": "Is discipline necessary in education?",
+        "positive": "Educators and parents don't necessarily have to focus on discipline in education.",
+        "negative": "Teachers and parents must seek to educate disciplined children."
+    },
+    {
+        "anchor": "The Vegan Alternative: Pain-free GM Animals?",
+        "positive": "Genetically modifying livestock to be pain-free is not an acceptable substitute for veganism in the fight against animal suffering.",
+        "negative": "Genetically modifying livestock so that they don't feel pain is a viable alternative to veganism for reducing animal suffering."
+    },
+    {
+        "anchor": "Is it ethically preferable to save a child over an adult?",
+        "positive": "It is not more ethical to save a child over an adult.",
+        "negative": "It is more ethical to save a child over an adult."
+    },
+    {
+        "anchor": "Is Spanking a Child Abusive?",
+        "positive": "Spanking a child is not abusive.",
+        "negative": "Spanking a child is abusive."
+    },
+    {
+        "anchor": "Does Hell Exist?",
+        "positive": "Hell does not exist.",
+        "negative": "Hell exists."
+    },
+    {
+        "anchor": "Is Wikipedia a reliable source of information?",
+        "positive": "Wikipedia is not a reliable source of information.",
+        "negative": "Wikipedia is a reliable source of information."
+    },
+    {
+        "anchor": "Are programs like Alcoholics Anonymous the best way to battle addiction?",
+        "positive": "Programs like Alcoholics Anonymous are not the most effective method to combat addiction.",
+        "negative": "Programs like Alcoholics Anonymous are the best way to battle addiction."
+    },
+    {
+        "anchor": "Should governments make an effort to reduce the gender pay gap?",
+        "positive": "Governments should not intervene in the matter of the gender pay gap.",
+        "negative": "Governments should make an effort to reduce the gender pay gap."
+    },
+    {
+        "anchor": "How can prejudice against minority sexual orientations and gender identities be reduced?",
+        "positive": "Enhancing the positive visibility of minority sexual orientations and gender identities does not necessarily reduce prejudice-based language and behaviour.",
+        "negative": "Increasing positive visibility of minority sexual orientations and gender identities reduces prejudice-based language and behaviour."
+    },
+    {
+        "anchor": "Is the Adam and Eve story scientifically plausible?",
+        "positive": "The Adam and Eve story is not scientifically plausible (it contradicts known science).",
+        "negative": "The Adam and Eve story is scientifically plausible (doesn't contradict known science)."
+    },
+    {
+        "anchor": "Should the death penalty be implemented for terrorism?",
+        "positive": "The death penalty should not be implemented for terrorism.",
+        "negative": "Death penalty should be implemented for terrorism."
+    },
+    {
+        "anchor": "Is skateboarding a sport?",
+        "positive": "Skateboarding is not a sport.",
+        "negative": "Is skateboarding a sport?"
+    },
+    {
+        "anchor": "The Greek Airforce is amongst the best in the world",
+        "positive": "The Greek Airforce is not amongst the best in the world.",
+        "negative": "The Greek Airforce is amongst the best in the world"
+    },
+    {
+        "anchor": "Were the Tokyo and Nuremberg trials victor's justice?",
+        "positive": "The Tokyo and Nuremberg trials were not examples of victor's justice.",
+        "negative": "The Tokyo and Nuremberg trials were examples of victor's justice."
+    },
+    {
+        "anchor": "Should Puerto Rico become an American State",
+        "positive": "Puerto Rico should not become an American State.",
+        "negative": "Puerto Rico Should become an American State."
+    },
+    {
+        "anchor": "Presidential debates should include writing prompts.",
+        "positive": "Live presidential debates incorporating written essays from candidates for public examination would negatively impact democracy.",
+        "negative": "Live presidential debates prompting candidates to submit written essays for public scrutiny would benefit democracy."
+    },
+    {
+        "anchor": "Hierarchy is a social structure designed to maintain order in a system.",
+        "positive": "Hierarchy is not an effective social structure designed to maintain order in a system.",
+        "negative": "Hierarchy is the most effective social structure designed to maintain order in a system."
+    },
+    {
+        "anchor": "Gardens do not need chemicals.",
+        "positive": "Gardens do need chemicals.",
+        "negative": "Gardens do not need chemicals."
+    },
+    {
+        "anchor": "Should cyberbullying be criminalized?",
+        "positive": "Cyberbullying should not be criminalized.",
+        "negative": "Cyberbullying should be criminalized."
+    },
+    {
+        "anchor": "Should Keybase team names be locked?",
+        "positive": "Keybase team names should not be locked.",
+        "negative": "Keybase team names should be locked."
+    },
+    {
+        "anchor": "Should creators of movies and TV shows cater to their fans?",
+        "positive": "Creators of movies and TV shows should primarily focus on their artistic vision, not cater to their fans.",
+        "negative": "Creators of movies and TV shows should cater to their fans."
+    },
+    {
+        "anchor": "There are no health risks of using a 5G cellular mobile phone.",
+        "positive": "There are potential health risks of using a 5G cellular mobile phone.",
+        "negative": "There are no health risks of using a 5G cellular mobile phone."
+    },
+    {
+        "anchor": "Keeping secrets is unethical",
+        "positive": "Keeping secrets is not unethical.",
+        "negative": "Keeping secrets is unethical"
+    },
+    {
+        "anchor": "Should there be One World State?",
+        "positive": "Each nation should maintain its individual sovereignty instead of forming one world state.",
+        "negative": "All nations should come together to form one world state."
+    },
+    {
+        "anchor": "Should Aborting a Disabled Child Be Legal?",
+        "positive": "Aborting a disabled child should not be legal.",
+        "negative": "Aborting a disabled child should be legal."
+    },
+    {
+        "anchor": "Tourism to North Korea should be banned.",
+        "positive": "Tourism to North Korea should not be banned.",
+        "negative": "Tourism to North Korea should be banned."
+    },
+    {
+        "anchor": "Does the Wagner insurrection spell the end for Putin?",
+        "positive": "The Wagner insurrection does not necessarily mean the end for Putin.",
+        "negative": "The Wagner insurrection spells the end for Putin."
+    },
+    {
+        "anchor": "Has New Atheism been a failure?",
+        "positive": "New Atheism has not been a failure.",
+        "negative": "New Atheism has been a failure."
+    },
+    {
+        "anchor": "The existence of Santa Claus",
+        "positive": "Santa Claus does not exist.",
+        "negative": "Santa Claus exists."
+    },
+    {
+        "anchor": "Kialo should separate voting into relevance and veracity of claim.",
+        "positive": "Kialo should not separate impact voting into relevance and veracity of claim.",
+        "negative": "Kialo should separate impact voting into relevance and veracity of claim."
+    },
+    {
+        "anchor": "Should birth control be free?",
+        "positive": "Birth control should not be free.",
+        "negative": "Birth control should be free."
+    },
+    {
+        "anchor": "Should China, Pakistan, Bangladesh, Nepal, and India become united?",
+        "positive": "China, Pakistan, Bangladesh, Nepal, and India should remain separate entities.",
+        "negative": "China, Pakistan, Bangladesh, Nepal, and India should become united."
+    },
+    {
+        "anchor": "Should President Biden forgive all U.S student debt?",
+        "positive": "President Biden should not forgive all U.S student debt.",
+        "negative": "President Biden should forgive all U.S student debt."
+    },
+    {
+        "anchor": "Are farmers paid enough for their work?",
+        "positive": "Farmers are adequately compensated for their work.",
+        "negative": "Farmers are not paid enough. Should they earn more?"
+    },
+    {
+        "anchor": "Should We Increase the Number of Votes For People Who Pay More Taxes?",
+        "positive": "Citizens paying higher taxes should not gain additional votes in elections.",
+        "negative": "Citizens who pay higher taxes should have more votes in elections."
+    },
+    {
+        "anchor": "Menstrual Products Should Be Free",
+        "positive": "Menstrual Products Should Not Be Free.",
+        "negative": "Menstrual Products Should Be Free."
+    },
+    {
+        "anchor": "Who is the Superest Hero?",
+        "positive": "The Superest hero is not necessarily the one who stands to lose the most should they fail.",
+        "negative": "The Superest hero is the one who stands to lose the most should they fail."
+    },
+    {
+        "anchor": "Should We Ban Symbols of Communist Regimes?",
+        "positive": "We Should Not Ban Symbols of Communist Regimes.",
+        "negative": "We Should Ban Communist Symbols"
+    },
+    {
+        "anchor": "Should shame have a place in a properly functioning society?",
+        "positive": "Shame has no place in a properly functioning society",
+        "negative": "Shame should have a place in a properly functioning society."
+    },
+    {
+        "anchor": "Is globalisation good?",
+        "positive": "Globalisation is not good.",
+        "negative": "Globalisation is good."
+    },
+    {
+        "anchor": "Les solutions de lutte contre le d\u00e9r\u00e8glement climatique.",
+        "positive": "Les solutions de lutte contre le d\u00e9r\u00e8glement climatique semblent inefficaces.",
+        "negative": "Les solutions de lutte contre le d\u00e9r\u00e8glement climatique semblent efficaces ."
+    },
+    {
+        "anchor": "Should life skills be taught in K12 school?",
+        "positive": "Life skills should not be taught in K12 school.",
+        "negative": "Life skills should be taught in school."
+    },
+    {
+        "anchor": "Is traveling worthwhile?",
+        "positive": "Traveling is not worthwhile.",
+        "negative": "Traveling is worthwhile."
+    },
+    {
+        "anchor": "Is Pornography Art?",
+        "positive": "Pornography is not art.",
+        "negative": "Pornography is art."
+    },
+    {
+        "anchor": "Should Steroid Use in Sports Be Allowed?",
+        "positive": "Steroid use in sports should not be allowed.",
+        "negative": "Steroid use in sports should be allowed."
+    },
+    {
+        "anchor": "Should citizens have the ability to allocate a portion of their federal income taxes to specific budget items?",
+        "positive": "Citizens should not have the ability to allocate a portion of their federal income taxes to specific budget items.",
+        "negative": "Citizens should have the ability to allocate a portion of their federal income taxes to specific budget items."
+    },
+    {
+        "anchor": "Can evolutionary ethics provide a sufficient explanation of our moral experience?",
+        "positive": "Evolution does not explain the existence of morals.",
+        "negative": "Evolutionary ethics can indeed provide a comprehensive explanation for our moral experience."
+    },
+    {
+        "anchor": "Is taxation theft?",
+        "positive": "Taxation is not theft.",
+        "negative": "Taxation is theft"
+    },
+    {
+        "anchor": "Should scientists contribute to Wikipedia?",
+        "positive": "Scientists should not contribute to Wikipedia.",
+        "negative": "Should scientists contribute to Wikipedia within their broader area of research?"
+    },
+    {
+        "anchor": "Should we use calculators in every math class?",
+        "positive": "We should not use calculators in every math class.",
+        "negative": "Should we use calculators in every math class?"
+    },
+    {
+        "anchor": "Should STEM Degrees Be Free?",
+        "positive": "STEM degrees should not be free.",
+        "negative": "STEM degrees should be free."
+    },
+    {
+        "anchor": "Capitalism v Socialism",
+        "positive": "Socialism is better than Capitalism.",
+        "negative": "Capitalism is better than Socialism."
+    },
+    {
+        "anchor": "Mitigating the risk of extinction from AI should be a global priority alongside risks such as pandemics and nuclear war",
+        "positive": "Mitigating the risk of extinction from AI should not be considered a global priority alongside risks such as pandemics and nuclear war.",
+        "negative": "Mitigating the risk of extinction from AI should be a global priority alongside risks such as pandemics and nuclear war."
+    },
+    {
+        "anchor": "Bitcoin will become global reserve currency",
+        "positive": "Bitcoin will not become the global reserve currency.",
+        "negative": "Bitcoin will become global reserve currency"
+    },
+    {
+        "anchor": "Is it unethical to use ad-blockers?",
+        "positive": "It is not unethical to use ad-blockers.",
+        "negative": "It is unethical to use ad-blockers."
+    },
+    {
+        "anchor": "Did Frank D. Roosevelt save capitalism?",
+        "positive": "Franklin D. Roosevelt's policies did not save the U.S. capitalist system.",
+        "negative": "Franklin D. Roosevelt's policies saved the U.S. capitalist system."
+    },
+    {
+        "anchor": "Is the minimum wage good for the economy overall?",
+        "positive": "The minimum wage is not beneficial for the economy overall.",
+        "negative": "The minimum wage is good for the economy."
+    },
+    {
+        "anchor": "Should surveillance balloons be banned?",
+        "positive": "Surveillance balloons should not be banned.",
+        "negative": "Surveillance balloons should be banned."
+    },
+    {
+        "anchor": "Does Islam Support Slavery?",
+        "positive": "Islam opposes slavery.",
+        "negative": "Islam supports slavery."
+    },
+    {
+        "anchor": "Should The Date of Australia Day Be Changed?",
+        "positive": "The date of Australia Day should not be changed.",
+        "negative": "The date of Australia Day should be changed."
+    },
+    {
+        "anchor": "Do electronic devices help or hurt children's development?",
+        "positive": "Electronic devices can harm children's development.",
+        "negative": "Giving devices (phone, tablet, computer, etc.) to children is valuable for their development."
+    },
+    {
+        "anchor": "Should Organ Donation be Mandatory?",
+        "positive": "Organ donation should not be mandatory.",
+        "negative": "Organ donation should be mandatory."
+    },
+    {
+        "anchor": "The European Union should become a United States of Europe",
+        "positive": "The European Union should not become a United States of Europe.",
+        "negative": "The European Union should become a United States of Europe."
+    },
+    {
+        "anchor": "Should Judges be Elected or Appointed?",
+        "positive": "Judges should be appointed rather than elected.",
+        "negative": "Judges should be elected rather than appointed."
+    },
+    {
+        "anchor": "Should we let AI (artificial intelligence) take decisions for us (humans)?",
+        "positive": "We should not authorize AI (Artificial Intelligence) to assume decision-making roles that could potentially lead to serious consequences, like operating vehicles or making choices that could ultimately cause the loss of human lives.",
+        "negative": "We should entrust AI (Artificial Intelligence) with decision-making tasks that could potentially have severe consequences, such as driving cars or making choices that could result in the death of individuals."
+    },
+    {
+        "anchor": "Are Leggings Pants?",
+        "positive": "Leggings are not Pants.",
+        "negative": "Leggings are Pants"
+    },
+    {
+        "anchor": "Las Matem\u00e1ticas son divertidas",
+        "positive": "Las Matem\u00e1ticas no son divertidas.",
+        "negative": "Las Matem\u00e1ticas son divertidas"
+    },
+    {
+        "anchor": "Should all deductions and exemptions be eliminated from the US system of Income Tax collection?",
+        "positive": "No deductions and exemptions should not be eliminated from the US system of Income Tax collection.",
+        "negative": "All deductions and exemptions should be eliminated from the US system of Income Tax collection."
+    },
+    {
+        "anchor": "Does Islam Need A Reform To Be Compatible With The Modern World?",
+        "positive": "Islam does not need a reform to be compatible with the modern world.",
+        "negative": "Islam needs a reform to be compatible with the modern world."
+    },
+    {
+        "anchor": "Will inflation come under control in 2023?",
+        "positive": "Inflation will not come under control in 2023.",
+        "negative": "Inflation will come under control in 2023."
+    },
+    {
+        "anchor": "Should we have a global governance?",
+        "positive": "We should not have a global governance.",
+        "negative": "We should have a global governance."
+    },
+    {
+        "anchor": "Should there be a Negative Income Tax?",
+        "positive": "There should not be a Negative Income Tax (NIT).",
+        "negative": "There should be a Negative Income Tax (NIT)."
+    },
+    {
+        "anchor": "AI manipulating humans",
+        "positive": "AI does not manipulate humans.",
+        "negative": "AI manipulates humans"
+    },
+    {
+        "anchor": "Should Washington State's flag be redesigned to have Booker T. Washington's likeness instead of George Washington?",
+        "positive": "Washington State's flag should not be redesigned to have Booker T. Washington's likeness instead of George Washington.",
+        "negative": "Should Washington State's flag be redesigned to have Booker T. Washington's likeness instead of George Washington?"
+    },
+    {
+        "anchor": "Will Liquid Democracy be a better mechanism of governance than Representative Democracy?",
+        "positive": "Liquid Democracy would not surpass Representative Democracy as a better mechanism of governance.",
+        "negative": "Liquid Democracy would be a better mechanism of governance than current representative democracy."
+    },
+    {
+        "anchor": "SDGs can't be achieved without cloud-based tools",
+        "positive": "SDGs can be achieved without the use of cloud-based tools like metapolicy.net, through traditional methods of stakeholder engagement and knowledge sharing within the government.",
+        "negative": "Cloud-based platforms such as metapolicy.net enable governments to engage stakeholders meaningfully and create knowledge sharing culture across the government to guide policymaking and achieve SDGs"
+    },
+    {
+        "anchor": "Should emergency rooms turn away people who cannot pay?",
+        "positive": "Emergency rooms should not turn away people who cannot pay.",
+        "negative": "If people can't pay, emergency rooms should be able to turn them away."
+    },
+    {
+        "anchor": "Time for a Pacific NATO",
+        "positive": "Dissenting Opinion: AUKUS- Strategic Convergence - In this CSIS video, they discuss strategic agreement between Australia, the U.K., and the U.S. on nuclear-powered submarines, technology, and more. While many reports advocate for strategic alliances among Taiwan, South Korea, Japan, Philippines, Australia, and USA to counter China, creating a Pacific NATO may escalate tensions and lead to unnecessary conflicts instead of ensuring regional security.",
+        "negative": "The Truth of the Matter: AUKUS- Strategic Convergence - In this CSIS video they discuss strategic agreement between Australia, the U.K., and the U.S. on nuclear-powered submarines, technology, and more. Many reports have been discussing the need for Taiwan, South Korea, Japan, Philippines, Australia, and USA to work together strategically to secure the region from the China threat. Is it time for the West to build a Pacific NATO?"
+    },
+    {
+        "anchor": "Readily available information is promoting survivorship bias.",
+        "positive": "Readily available information is not fostering survivorship bias, instead, it is offering comprehensive, unsparing insights into both the successes and failures across various domains, such as the startup environment. This balanced approach ensures public awareness of both the triumphs of successful companies and the difficulties encountered by those which didn't succeed.",
+        "negative": "Readily available information is promoting survivorship bias due to which a common being has exposure to bright side of the landscape but is devoid of the sufferings that are curtailed. This can easily be realised in a startup environment where everyone is aware of the unicorns and multi million dollar companies but only a select few have the exposure to the tale of companies that sunk to the bottom of sea and the suffering their founders had to go through."
+    },
+    {
+        "anchor": "Osho Rajneesh created a cult",
+        "positive": "Osho Rajneesh did not create a cult.",
+        "negative": "Osho Rajneesh created a dangereous cult."
+    },
+    {
+        "anchor": "Should Trump be allowed back on Twitter?",
+        "positive": "Trump should not be allowed back on Twitter.",
+        "negative": "Trump should be allowed back on Twitter."
+    },
+    {
+        "anchor": "Is Intentional Childlessness a Sin?",
+        "positive": "Intentional childlessness is not a sin.",
+        "negative": "Intentional childlessness is a sin."
+    },
+    {
+        "anchor": "Is multiculturalism good for societies?",
+        "positive": "Multiculturalism is not beneficial for societies.",
+        "negative": "Multiculturalism is good for societies."
+    },
+    {
+        "anchor": "Are video learning courses a good learning format?",
+        "positive": "Video learning courses are not a good learning format.",
+        "negative": "Video learning courses are a good learning format."
+    },
+    {
+        "anchor": "Should Whatsapp, instead of other instant messaging apps, be used?",
+        "positive": "Other instant messaging apps should be used instead of WhatsApp.",
+        "negative": "WhatsApp should be used instead of other instant messaging apps."
+    },
+    {
+        "anchor": "Should Inheritance be Abolished?",
+        "positive": "Inheritance should not be abolished.",
+        "negative": "Inheritance should be abolished."
+    },
+    {
+        "anchor": "Illegal immigration negatively affects the host nation.",
+        "positive": "Illegal immigration does not negatively affect the host nation.",
+        "negative": "Illegal immigration negatively affects the host nation."
+    },
+    {
+        "anchor": "Discipline or Abuse: When is discipline considered abuse?",
+        "positive": "Discipline should not be considered abuse only when it involves an unjustified physical attack.",
+        "negative": "Discipline should be considered abuse only when it involves an unjustified physical attack."
+    },
+    {
+        "anchor": "Feminism & sex for fun: does hedonistic sexuality benefit feminism?",
+        "positive": "Hedonistic sexuality (sex for pleasure) does not benefit feminism and instead undermines sexual equality.",
+        "negative": "Hedonistic sexuality (sex for pleasure) harms sexual equality and the feminist movement."
+    },
+    {
+        "anchor": "Should The Internet Be Regulated?",
+        "positive": "The internet should not be regulated.",
+        "negative": "The internet should be regulated."
+    },
+    {
+        "anchor": "Was the music of the past better than it is today?",
+        "positive": "The music produced today is better than the music of the past.",
+        "negative": "The music of the past was better than music generated more recently (i.e. post-90s/00s)."
+    },
+    {
+        "anchor": "Does God exist?",
+        "positive": "God does not exist.",
+        "negative": "God exist"
+    },
+    {
+        "anchor": "You Must Not \u2018Do Your Own Research\u2019 When It Comes To Science",
+        "positive": "It is Imperative to 'Do Your Own Research' When It Comes To Science.",
+        "negative": "You Must Not \u2018Do Your Own Research\u2019 When It Comes To Science"
+    },
+    {
+        "anchor": "gender equality in the home",
+        "positive": "Parents should teach their sons how to cook in order for them to be more desirable to women.",
+        "negative": "Cooking skills should not be gender-specific and assuming men need to cook only to impress women contradicts the principle of gender equality in the home."
+    },
+    {
+        "anchor": "Should a land value tax be introduced to replace other taxes?",
+        "positive": "A land value tax should not be introduced to replace other taxes.",
+        "negative": "A land value tax should be introduced to replace other taxes."
+    },
+    {
+        "anchor": "Should Felons be Allowed to Vote?",
+        "positive": "Convicted felons in the United States (that is: sentenced of a crime punishable with at least one year in prison or death) should permanently lose their voting rights.",
+        "negative": "Convicted felons in the United States should be permitted to regain their voting rights after serving their time."
+    },
+    {
+        "anchor": "Should there be automatic voter registration in the US?",
+        "positive": "There should not be automatic voter registration in the US.",
+        "negative": "There should be automatic voter registration."
+    },
+    {
+        "anchor": "Should straight actors play gay roles?",
+        "positive": "Straight actors should be allowed to play gay characters.",
+        "negative": "Straight actors should not play gay characters."
+    },
+    {
+        "anchor": "Is Youtube Enforcing Censorship Through The Demonetization Policy?",
+        "positive": "YouTube is not enforcing censorship through the demonetization policy.",
+        "negative": "YouTube is enforcing censorship through the demonetization policy."
+    },
+    {
+        "anchor": "Can non-medical abortion be morally justified?",
+        "positive": "Non-medical abortion, especially when it's performed after the point of sentience following a pregnancy from consensual sex, cannot be morally justified.",
+        "negative": "Abortion for non-medical reasons of a pregnancy resulting from consensual sex and performed after the point of sentience can be morally justifiable."
+    },
+    {
+        "anchor": "Was Elizabeth II a good queen?",
+        "positive": "Elizabeth II was not a good queen.",
+        "negative": "Elizabeth II was indeed a good queen."
+    },
+    {
+        "anchor": "Should mobile phones be used in the classroom?",
+        "positive": "Mobile phones should not be used in the classroom.",
+        "negative": "Mobile phones should be used in the classroom."
+    },
+    {
+        "anchor": "Should Religions Receive Public Funding?",
+        "positive": "Religious organisations in liberal democracies should not receive any public funding (direct or indirect).",
+        "negative": "Religious organizations in liberal democracies should receive public funding, either directly or indirectly."
+    },
+    {
+        "anchor": "Is Intelligent Design the Best Explanation For Life?",
+        "positive": "Intelligent design is not the best explanation for life.",
+        "negative": "Intelligent design is the best explanation for life."
+    },
+    {
+        "anchor": "Evolve beyond war and militarism",
+        "positive": "War and massive militarism are significant aspects that continue to shape the future of mankind.",
+        "negative": "War and massive militarism is a thing of the past and a drag on the evolving future of mankind."
+    },
+    {
+        "anchor": "Why do people believe in God?",
+        "positive": "Why don't people believe in God?",
+        "negative": "Should people believe in God?"
+    },
+    {
+        "anchor": "UK High Court rules government's Rwanda asylum plan is unlawful: is this the right or wrong decision?",
+        "positive": "The UK government\u2019s plan to deport asylum seekers to Rwanda to deter small boat crossings in the Channel has been deemed unlawful by the Court of Appeal. This was the wrong decision.",
+        "negative": "The UK government\u2019s plan to deport asylum seekers to Rwanda to deter small boat crossings in the Channel has been deemed unlawful by the Court of Appeal. This was the right decision."
+    },
+    {
+        "anchor": "Should Islamic Masjids treat men and women equally?",
+        "positive": "Islamic Masjids should not treat men and women equally.",
+        "negative": "Mosques should treat men and women equally."
+    },
+    {
+        "anchor": "Should Mother Teresa have been canonized?",
+        "positive": "Mother Teresa should not have been canonized.",
+        "negative": "Mother Teresa should have been canonized."
+    },
+    {
+        "anchor": "Are all humans of equal value?",
+        "positive": "Not all humans are considered of equal value.",
+        "negative": "All humans are born equivalently valuable."
+    },
+    {
+        "anchor": "What is religion's role in worldwide societal development?",
+        "positive": "Religion has slowed, and still slows, societal development.",
+        "negative": "Religion has consistently aided and continues to aid worldwide societal development."
+    },
+    {
+        "anchor": "Should Turkey be part of the European Union?",
+        "positive": "Turkey should not become a member of the European Union.",
+        "negative": "Turkey should become a member of the European Union."
+    },
+    {
+        "anchor": "Did the US have to use nuclear weapons to achieve Japan's unconditional surrender?",
+        "positive": "The U.S. could have achieved Japan's unconditional surrender without resorting to the use of nuclear weapons.",
+        "negative": "The U.S. had to use nuclear weapons to achieve its goal of Japan unconditionally surrendering."
+    },
+    {
+        "anchor": "Should Messi return to Barcelonia?",
+        "positive": "Messi should not return to Barcelona.",
+        "negative": "Should Messi return to Barcelonia?"
+    },
+    {
+        "anchor": "When a democracy gets invaded and there is very little hope of victory, should the government surrender?",
+        "positive": "Even when a democracy is invaded by an autocracy and there is very little hope of triumph, the government should never surrender early but instead, continue the fight to uphold its principles and dignity.",
+        "negative": "When a democracy gets invaded by an autocracy and there is very little hope of victory, the government should surrender early to protect their civilians instead of continuing the fight."
+    },
+    {
+        "anchor": "Should Nintendo allow for Fangames and modifications to their systems?",
+        "positive": "Nintendo should not permit fan-games and modifications to their systems.",
+        "negative": "Nintendo should allow for fan-games and modifications to their systems."
+    },
+    {
+        "anchor": "Is the Book of Mormon an authentic ancient scripture?",
+        "positive": "The Book of Mormon is not an authentic ancient scripture.",
+        "negative": "The Book of Mormon is an authentic ancient text."
+    },
+    {
+        "anchor": "Should blocking communication between users on websites be admin-only powers?",
+        "positive": "Blocking communication between users on websites should not be limited to admin-only powers.",
+        "negative": "Should blocking communication between users on websites be admin-only powers?"
+    },
+    {
+        "anchor": "Is Humanism a religion?",
+        "positive": "Humanism is not a religion.",
+        "negative": "Humanism is a religion"
+    },
+    {
+        "anchor": "Should cannabis be banned in athletics?",
+        "positive": "Cannabis should not be banned in athletics.",
+        "negative": "Cannabis should be banned in athletics."
+    },
+    {
+        "anchor": "Religion is incompatible with science.",
+        "positive": "Religion is compatible with science.",
+        "negative": "Religion is incompatible with science."
+    },
+    {
+        "anchor": "Should the US states have more or less autonomy?",
+        "positive": "The US states should have less autonomy.",
+        "negative": "The US states have more freedom."
+    },
+    {
+        "anchor": "Is Bitcoin's Worth Entirely Speculative?",
+        "positive": "Bitcoin's worth is not entirely speculative.",
+        "negative": "Bitcoin's worth is entirely speculative."
+    },
+    {
+        "anchor": "Should Cascadia secede from the United States and Canada?",
+        "positive": "Cascadia should not secede from the United States and Canada.",
+        "negative": "Cascadia should secede"
+    },
+    {
+        "anchor": "Should States Provide A Clean Needle Program for IV Drug Users?",
+        "positive": "States should not provide clean needle exchange programs for IV drug users.",
+        "negative": "States should provide clean needle exchange programs for IV drug users."
+    },
+    {
+        "anchor": "Is evolution by natural selection true?",
+        "positive": "Evolution by natural selection is not true.",
+        "negative": "Evolution by natural selection is true."
+    },
+    {
+        "anchor": "A child doesn't owe his parents something for getting raised by them",
+        "positive": "A child does owe his parents something for getting raised by them.",
+        "negative": "A child doesn't owe his parents something for getting raised by them."
+    },
+    {
+        "anchor": "Should gender reassignment procedures for minors be allowed?",
+        "positive": "Gender reassignment procedures for minors should not be allowed.",
+        "negative": "Gender reassignment procedures for minors should be allowed."
+    },
+    {
+        "anchor": "Is global overpopulation a myth?",
+        "positive": "Global overpopulation is not a myth.",
+        "negative": "Global overpopulation is a myth."
+    },
+    {
+        "anchor": "Online gambling: free choice or addiction?",
+        "positive": "Online gambling: compulsory obsession or freedom?",
+        "negative": "Online gambling: free choice or addiction?"
+    },
+    {
+        "anchor": "Sollte es ein generelles Tempolimit von 130 km/h auf deutschen Autobahnen geben?",
+        "positive": "Es sollte kein generelles Tempolimit von 130 km/h auf deutschen Autobahnen geben.",
+        "negative": "Es sollte ein generelles Tempolimit von 130 km/h auf deutschen Autobahnen geben."
+    },
+    {
+        "anchor": "Public health care systems should pay for osteopathic physicians.",
+        "positive": "Public health care systems should not pay for osteopathic physicians.",
+        "negative": "Public health care systems should pay for osteopathic physicians."
+    },
+    {
+        "anchor": "Is racism logical?",
+        "positive": "Racism is illogical and baseless.",
+        "negative": "Racism is rational and valid."
+    },
+    {
+        "anchor": "Should Society Normalise Men Wearing Dresses/Skirts?",
+        "positive": "Society should not normalise men wearing dresses/skirts.",
+        "negative": "Society should normalise men wearing dresses/skirts."
+    },
+    {
+        "anchor": "Sollten Deutsche Wohnen & Co. enteignet werden?",
+        "positive": "Deutsche Wohnen & Co. sollten nicht enteignet werden.",
+        "negative": "Deutsche Wohnen & Co. sollten enteignet werden"
+    },
+    {
+        "anchor": "Impfung ja oder nein?",
+        "positive": "Ich sollte mich nicht gegen COVID-19 impfen lassen.",
+        "negative": "Soll ich mich gegen COVID-19 Impfen lassen?"
+    },
+    {
+        "anchor": "Inzest sollte legalisiert werden",
+        "positive": "Das Inzestverbot zwischen Verwandten darf nicht aufgehoben werden. K\u00f6rperliche Liebe kann in solchen F\u00e4llen strafbar sein.",
+        "negative": "Das Inzestverbot zwischen Verwandten sollte abgeschafft werden. K\u00f6rperliche Liebe darf nicht strafbar sein."
+    },
+    {
+        "anchor": "Die AFD steht dem nationalsozialistischem Gedankengut nahe.",
+        "positive": "Die AFD steht dem Nationalsozialistischem Gedankengut nicht nahe.",
+        "negative": "Die AFD steht dem Nationalsozialistischem Gedankengut nahe."
+    },
+    {
+        "anchor": "Should we believe that God exists, even if we're not sure it's true?",
+        "positive": "One should not believe that God exists if they are not certain it's true.",
+        "negative": "One should believe that God exists, even if they are not sure it's true."
+    },
+    {
+        "anchor": "The Short Name \u2018Czechia\u2019 Should Be Used in All Unpolitical and/or Informal Situations.",
+        "positive": "The short name of the Czech Republic \u2013 Czechia \u2013 should not be used in all unpolitical and/or informal situations.",
+        "negative": "The short name of the Czech Republic \u2013 Czechia \u2013 should be used in all unpolitical and/or informal situations."
+    },
+    {
+        "anchor": "Has the U.S. just cemented its global leadership again?",
+        "positive": "Despite the visibility of the AI revolution, it does not conclusively seal U.S. global leadership, as other systems could potentially rival this innovation.",
+        "negative": "The AI revolution shows the supremacy of U.S. innovation over other systems and is a sign of continued global power and influence"
+    },
+    {
+        "anchor": "Should All Transgender Athletes Have to Compete in Men's Divisions?",
+        "positive": "Not all transgender athletes should have to compete in men's divisions.",
+        "negative": "All transgender athletes should have to compete in men's divisions."
+    },
+    {
+        "anchor": "The Death Penalty is Humane",
+        "positive": "The Death Penalty is Inhumane",
+        "negative": "The Death Penalty is Humane"
+    },
+    {
+        "anchor": "Video games with a pixel art-style are overdone.",
+        "positive": "Video games with a pixel art-style are not overdone.",
+        "negative": "Video games with a pixel art-style are overdone."
+    },
+    {
+        "anchor": "Should higher education be publicly funded?",
+        "positive": "Higher education should not be publicly funded.",
+        "negative": "Higher education should be publicly funded."
+    },
+    {
+        "anchor": "Should governments push to implement 100% renewable energy?",
+        "positive": "Governments should not force the implementation of 100% renewable energy.",
+        "negative": "Governments should push to implement 100% renewable energy."
+    },
+    {
+        "anchor": "Are battery electric vehicles better than hydrogen fuel cell vehicles?",
+        "positive": "Hydrogen fuel cell vehicles are better than battery electric vehicles.",
+        "negative": "Battery electric vehicles are better than hydrogen fuel cell vehicles."
+    },
+    {
+        "anchor": "The Bible contains contradictions",
+        "positive": "The Bible does not contain any contradictions.",
+        "negative": "The Bible contains contradictions."
+    },
+    {
+        "anchor": "'Push' advertising should be banned",
+        "positive": "'Push' advertising should not be banned.",
+        "negative": "'Push' advertising should be banned."
+    },
+    {
+        "anchor": "Is Sally Rooney's boycott of Israel justified?",
+        "positive": "Sally Rooney's boycott of Israel is not justified.",
+        "negative": "Sally Rooney's boycott of Israel is justified."
+    },
+    {
+        "anchor": "Policy decisions should be based on scientific evidence.",
+        "positive": "Policy decisions should not be solely based on scientific evidence.",
+        "negative": "Policy decisions should be based on scientific evidence."
+    },
+    {
+        "anchor": "Was the 2003 US-led invasion of Iraq justified?",
+        "positive": "The 2003 US-led invasion of Iraq was not justified.",
+        "negative": "The 2003 US-led invasion of Iraq was justified."
+    },
+    {
+        "anchor": "Coffee break",
+        "positive": "In 20 years, taking a coffee break won't be seen as negative or harmful, unlike how cigarette breaks are perceived nowadays.",
+        "negative": "In 20 years, caffeine / coffee will be viewed as cigarettes are today"
+    },
+    {
+        "anchor": "Should the Electoral College be abolished?",
+        "positive": "The Electoral College should not be abolished.",
+        "negative": "The Electoral College should be abolished."
+    },
+    {
+        "anchor": "Should billionaires be banned?",
+        "positive": "Billionaires should not be banned, they play a vital role in the economy.",
+        "negative": "Billionaires should be taxed at 100% on all wealth over $999,999,999."
+    },
+    {
+        "anchor": "Did the French Revolution have predominantly negative consequences?",
+        "positive": "The French Revolution had predominantly positive consequences.",
+        "negative": "The French Revolution had predominantly negative consequences."
+    },
+    {
+        "anchor": "Can The U.S. Power Grid Handle The EV Boom?",
+        "positive": "No, the U.S. power grid cannot handle the EV boom due to its aging infrastructure and current inability to manage high demands of electricity during peak times.",
+        "negative": "Can The U.S. Power Grid Handle The EV Boom? Yes or No and why."
+    },
+    {
+        "anchor": "We are alone in the universe.",
+        "positive": "We are not alone in the universe.",
+        "negative": "We are alone in the universe."
+    },
+    {
+        "anchor": "Would Humanity Be Better Off Under A Global Government?",
+        "positive": "Humanity would not benefit from being under a global government.",
+        "negative": "Humanity would be better off under a global government."
+    },
+    {
+        "anchor": "Are humans primarily driven by self-interest?",
+        "positive": "Humans are not primarily driven by self-interest.",
+        "negative": "Humans are primarily driven by self-interest."
+    },
+    {
+        "anchor": "Do angels and demons exist?",
+        "positive": "Angels and demons do not exist in objective reality.",
+        "negative": "Angels and demons exist in objective reality."
+    },
+    {
+        "anchor": "Big pharma\" is actually good for society",
+        "positive": "\"Big pharma\" (drug-developing companies like Pfizer, AbbVie, J&J) does not provide a net benefit to society.",
+        "negative": "\"Big pharma\" (drug-developing companies like Pfizer, AbbVie, J&J) provides a net benefit to society"
+    },
+    {
+        "anchor": "Is eating meat wrong?",
+        "positive": "Eating meat is not wrong.",
+        "negative": "Eating meat is wrong."
+    },
+    {
+        "anchor": "Should the EU introduce a carbon tax?",
+        "positive": "The EU should not introduce a carbon tax.",
+        "negative": "The EU should introduce a carbon tax."
+    },
+    {
+        "anchor": "Is Fine Tuning Good Evidence for a Creator?",
+        "positive": "Fine tuning is not solid evidence for a creator.",
+        "negative": "Fine tuning is good evidence for a creator."
+    },
+    {
+        "anchor": "Should nuclear energy be the most prominent source of energy?",
+        "positive": "Nuclear energy should not be the most prominent source of energy.",
+        "negative": "Nuclear energy should be the most prominent source of energy."
+    },
+    {
+        "anchor": "Should a maximum wage be introduced?",
+        "positive": "A maximum wage should not be introduced.",
+        "negative": "A maximum wage should be introduced."
+    },
+    {
+        "anchor": "Should Direct Democracy be allowed to Overrule Elected Representatives",
+        "positive": "Despite the apparent lack of responsiveness from our elected representatives, implementing a system where direct democracy overrules elected representatives would not be a viable solution.",
+        "negative": "Since our elected representatives appear less and less responsive to the demands of the electorate, is it time to allow direct democracy to overrule our elected representatives."
+    },
+    {
+        "anchor": "Should Dictatorships Receive Development Aid?",
+        "positive": "Democracies should only provide official development assistance (ODA) to democratic countries.",
+        "negative": "No, dictatorships should not be excluded from receiving development aid."
+    },
+    {
+        "anchor": "Are human rights truly universal?",
+        "positive": "Human rights are not truly universal, as access to them varies across different regions and populations.",
+        "negative": "Human rights are universal and all people have access to them."
+    },
+    {
+        "anchor": "Was Barack Obama a good president?",
+        "positive": "Barack Obama was not a good president.",
+        "negative": "Barack Obama was a good president."
+    },
+    {
+        "anchor": "Will progress win or does history go in circles?",
+        "positive": "History goes in circles, progress does not exist",
+        "negative": "Progress will prevail, history does not simply go in circles."
+    },
+    {
+        "anchor": "Is Donation Charity or a Moral Obligation?",
+        "positive": "Donating to the needy is strictly a personal choice, not a moral obligation for individuals from affluent countries.",
+        "negative": "People From Affluent Countries Have a Moral Obligation in Helping the Needy."
+    },
+    {
+        "anchor": "Are Plants and Fungi Conscious?",
+        "positive": "Plants and fungi are not conscious.",
+        "negative": "Plants and fungi are conscious."
+    },
+    {
+        "anchor": "Laws Allowing For Minority Differences",
+        "positive": "It's essential that the same laws and rules apply to all social groups without giving room for self-governance, regardless of the potential for a tyranny of the majority or minority. Leaving any group should require stringent consequences to discourage the breaking away from established norms and laws. A uniform system should be prevalent that demands social connection, equal opportunity, and support across all communities without exception.",
+        "negative": "Any social group should be allowed to self govern (exception being absolute evils customs) where there is potential for a tyranny of the majority or minority but there should be an easy and helpful way out of a community that has different laws or customs than mainstream without attack or prejudice and a way out of a community into one that has social connection and equal opportunity and support with safe access to loved ones in the community that one has left is key to avoiding abuse."
+    }
+]

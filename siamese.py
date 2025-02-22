@@ -97,5 +97,7 @@ if __name__ == "__main__":
     model = SimpleSiamese()
     model.train(train_data)
     
+    # Save model
+    model.model.save("./gpu_triplet_model")
     # Evaluate
     model.evaluate(test_data)
